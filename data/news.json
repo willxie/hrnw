@@ -1,11 +1,128 @@
 {
-  "updatedAt": "2026-10-18T15:46:26.617446+00:00",
+  "updatedAt": "2026-10-18T18:34:50.812779+00:00",
   "stories": [
+    {
+      "id": 50119819,
+      "title": "CKKS – Addition and Multiplication",
+      "score": 3,
+      "descendants": 0,
+      "homepage": true,
+      "time": 1792347994,
+      "url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/"
+    },
+    {
+      "id": 50143536,
+      "title": "PalmOS Lemmings by Aaron Ardiri",
+      "score": 8,
+      "descendants": 1,
+      "homepage": true,
+      "time": 1792347798,
+      "url": "https://github.com/ardiri/palmos-lemmings"
+    },
+    {
+      "id": 50142866,
+      "title": "Namecheap just seized and disabled all my domains",
+      "score": 59,
+      "descendants": 23,
+      "homepage": true,
+      "time": 1792346207,
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"
+    },
+    {
+      "id": 50143132,
+      "title": "Mitos editor is a fork of Helix",
+      "score": 14,
+      "descendants": 19,
+      "homepage": true,
+      "time": 1792346174,
+      "url": "https://mitos.computer/"
+    },
+    {
+      "id": 50143218,
+      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "score": 72,
+      "descendants": 120,
+      "homepage": false,
+      "time": 1792344656,
+      "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/"
+    },
+    {
+      "id": 50093020,
+      "title": "I Electrified My Push Scooter with a Power Drill",
+      "score": 19,
+      "descendants": 11,
+      "homepage": true,
+      "time": 1792344358,
+      "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/"
+    },
+    {
+      "id": 50136017,
+      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+      "score": 18,
+      "descendants": 0,
+      "homepage": true,
+      "time": 1792341771,
+      "url": "https://www.youtube.com/watch?v=QH_LPimUJMs"
+    },
+    {
+      "id": 50142573,
+      "title": "Someone behind the software",
+      "score": 84,
+      "descendants": 31,
+      "homepage": true,
+      "time": 1792341604,
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+    },
+    {
+      "id": 50142449,
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "score": 45,
+      "descendants": 6,
+      "homepage": true,
+      "time": 1792341604,
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html"
+    },
+    {
+      "id": 50096110,
+      "title": "Sigsaly: Churchill's top secret hotline to the President",
+      "score": 57,
+      "descendants": 5,
+      "homepage": true,
+      "time": 1792340745,
+      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone"
+    },
+    {
+      "id": 50142034,
+      "title": "Campus deplatformings hit record high",
+      "score": 17,
+      "descendants": 27,
+      "homepage": false,
+      "time": 1792340187,
+      "url": "https://expression.fire.org/p/campus-deplatformings-hit-record"
+    },
+    {
+      "id": 50141436,
+      "title": "High performance policy routed IPsec mesh SD-WAN",
+      "score": 14,
+      "descendants": 1,
+      "homepage": false,
+      "time": 1792338575,
+      "url": "https://ranet3.com/"
+    },
+    {
+      "id": 50141909,
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "score": 194,
+      "descendants": 177,
+      "homepage": true,
+      "time": 1792338542,
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550"
+    },
     {
       "id": 50141579,
       "title": "Java sealed classes and exhaustive pattern matching",
-      "score": 5,
-      "descendants": 0,
+      "score": 74,
+      "descendants": 41,
       "homepage": true,
       "time": 1792337823,
       "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/"
@@ -13,25 +130,25 @@
     {
       "id": 50140462,
       "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "score": 7,
-      "descendants": 0,
-      "homepage": true,
+      "score": 64,
+      "descendants": 67,
+      "homepage": false,
       "time": 1792337396,
       "url": "https://www.vals.ai/blogs/impossible-refund"
     },
     {
       "id": 50108165,
       "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
-      "score": 5,
-      "descendants": 1,
+      "score": 19,
+      "descendants": 3,
       "homepage": true,
       "time": 1792337100,
       "url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html"
     },
     {
       "id": 50141024,
-      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience",
-      "score": 11,
+      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+      "score": 25,
       "descendants": 3,
       "homepage": true,
       "time": 1792336290,
@@ -40,17 +157,17 @@
     {
       "id": 50141206,
       "title": "Theranos-Style Fraud Has Become the Norm",
-      "score": 44,
-      "descendants": 4,
-      "homepage": true,
+      "score": 87,
+      "descendants": 33,
+      "homepage": false,
       "time": 1792336258,
       "url": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/"
     },
     {
       "id": 50141681,
       "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "score": 26,
-      "descendants": 21,
+      "score": 88,
+      "descendants": 104,
       "homepage": true,
       "time": 1792336225,
       "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
@@ -58,26 +175,26 @@
     {
       "id": 50141295,
       "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
-      "score": 38,
-      "descendants": 35,
-      "homepage": true,
+      "score": 97,
+      "descendants": 112,
+      "homepage": false,
       "time": 1792335766,
       "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car"
     },
     {
       "id": 50141657,
       "title": "Websites are closing their doors to AI agents",
-      "score": 32,
-      "descendants": 23,
-      "homepage": true,
+      "score": 122,
+      "descendants": 109,
+      "homepage": false,
       "time": 1792335539,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
       "id": 50140769,
       "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "score": 43,
-      "descendants": 10,
+      "score": 103,
+      "descendants": 51,
       "homepage": true,
       "time": 1792334928,
       "url": "https://legendofhyrule.com/"
@@ -85,26 +202,26 @@
     {
       "id": 50141429,
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "score": 66,
-      "descendants": 53,
-      "homepage": true,
+      "score": 130,
+      "descendants": 146,
+      "homepage": false,
       "time": 1792334864,
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
     },
     {
       "id": 50114061,
       "title": "Chirp Pong – uses microphones and audio for networked game play",
-      "score": 12,
-      "descendants": 3,
-      "homepage": true,
+      "score": 24,
+      "descendants": 13,
+      "homepage": false,
       "time": 1792333469,
       "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/"
     },
     {
       "id": 50141076,
       "title": "RepRapMicron",
-      "score": 124,
-      "descendants": 19,
+      "score": 228,
+      "descendants": 35,
       "homepage": true,
       "time": 1792332270,
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
@@ -112,8 +229,8 @@
     {
       "id": 50139998,
       "title": "The Brain Sandwich",
-      "score": 18,
-      "descendants": 7,
+      "score": 46,
+      "descendants": 20,
       "homepage": true,
       "time": 1792332172,
       "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/"
@@ -121,8 +238,8 @@
     {
       "id": 50141053,
       "title": "Gen Z Is the First Generation Dumber Than Their Parents",
-      "score": 51,
-      "descendants": 85,
+      "score": 60,
+      "descendants": 97,
       "homepage": false,
       "time": 1792331879,
       "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/"
@@ -130,8 +247,8 @@
     {
       "id": 50093081,
       "title": "Hatching (Heraldry)",
-      "score": 41,
-      "descendants": 8,
+      "score": 59,
+      "descendants": 16,
       "homepage": true,
       "time": 1792329849,
       "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)"
@@ -139,8 +256,8 @@
     {
       "id": 50140638,
       "title": "Germany's 17M Immigrants: Where They Come From",
-      "score": 11,
-      "descendants": 13,
+      "score": 12,
+      "descendants": 15,
       "homepage": false,
       "time": 1792329041,
       "url": "https://www.visualcapitalist.com/cp/where-germanys-immigrants-come-from/"
@@ -148,17 +265,17 @@
     {
       "id": 50102480,
       "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "score": 19,
-      "descendants": 2,
-      "homepage": true,
+      "score": 28,
+      "descendants": 5,
+      "homepage": false,
       "time": 1792326203,
       "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf"
     },
     {
       "id": 50140001,
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-      "score": 97,
-      "descendants": 8,
+      "score": 133,
+      "descendants": 12,
       "homepage": true,
       "time": 1792325459,
       "url": "https://github.com/0x23/MicroManipulatorStepper"
@@ -166,8 +283,8 @@
     {
       "id": 50139692,
       "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "score": 126,
-      "descendants": 32,
+      "score": 189,
+      "descendants": 49,
       "homepage": true,
       "time": 1792323025,
       "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
@@ -175,17 +292,17 @@
     {
       "id": 50098485,
       "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-      "score": 20,
+      "score": 26,
       "descendants": 2,
-      "homepage": true,
+      "homepage": false,
       "time": 1792322579,
       "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html"
     },
     {
       "id": 50139873,
       "title": "How employment is changing at Anthropic",
-      "score": 88,
-      "descendants": 167,
+      "score": 95,
+      "descendants": 180,
       "homepage": false,
       "time": 1792322515,
       "url": "https://www.anthropic.com/research/employment-at-anthropic"
@@ -193,8 +310,8 @@
     {
       "id": 50139935,
       "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
-      "score": 31,
-      "descendants": 74,
+      "score": 33,
+      "descendants": 78,
       "homepage": false,
       "time": 1792322194,
       "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/"
@@ -202,7 +319,7 @@
     {
       "id": 50139658,
       "title": "It's time to talk about TEEs",
-      "score": 17,
+      "score": 18,
       "descendants": 6,
       "homepage": false,
       "time": 1792321133,
@@ -211,8 +328,8 @@
     {
       "id": 50122671,
       "title": "Regex visualized as 3D marble run",
-      "score": 54,
-      "descendants": 20,
+      "score": 74,
+      "descendants": 26,
       "homepage": true,
       "time": 1792318968,
       "url": "https://www.regexmarblerun.com/"
@@ -220,8 +337,8 @@
     {
       "id": 50139067,
       "title": "Parser Combinators",
-      "score": 126,
-      "descendants": 54,
+      "score": 182,
+      "descendants": 67,
       "homepage": true,
       "time": 1792317719,
       "url": "https://t3.at/blog/2026-10-17-parser-combinators/"
@@ -229,8 +346,8 @@
     {
       "id": 50121516,
       "title": "Go Piss, Girl: The plight of the public potty",
-      "score": 25,
-      "descendants": 94,
+      "score": 26,
+      "descendants": 98,
       "homepage": false,
       "time": 1792315347,
       "url": "https://thebaffler.com/latest/go-piss-girl-wagner"
@@ -238,8 +355,8 @@
     {
       "id": 50124730,
       "title": "Teal – A statically-typed dialect of Lua",
-      "score": 99,
-      "descendants": 44,
+      "score": 128,
+      "descendants": 56,
       "homepage": true,
       "time": 1792311756,
       "url": "https://teal-language.org/"
@@ -247,7 +364,7 @@
     {
       "id": 50126457,
       "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
-      "score": 13,
+      "score": 14,
       "descendants": 2,
       "homepage": false,
       "time": 1792308120,
@@ -256,8 +373,8 @@
     {
       "id": 50138462,
       "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-      "score": 50,
-      "descendants": 61,
+      "score": 51,
+      "descendants": 66,
       "homepage": false,
       "time": 1792307484,
       "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c"
@@ -265,8 +382,8 @@
     {
       "id": 50138531,
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "score": 388,
-      "descendants": 198,
+      "score": 453,
+      "descendants": 219,
       "homepage": true,
       "time": 1792307289,
       "url": "https://api-docs.deepseek.com/guides/search/"
@@ -274,8 +391,8 @@
     {
       "id": 50138002,
       "title": "Notes on the Complex Roots of Unity",
-      "score": 37,
-      "descendants": 9,
+      "score": 40,
+      "descendants": 10,
       "homepage": false,
       "time": 1792304796,
       "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/"
@@ -283,8 +400,8 @@
     {
       "id": 50106792,
       "title": "Fun Extending the C Preprocessor",
-      "score": 45,
-      "descendants": 16,
+      "score": 50,
+      "descendants": 22,
       "homepage": false,
       "time": 1792304512,
       "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html"
@@ -293,7 +410,7 @@
       "id": 50130103,
       "title": "The Elizabeth Holmes Documentary, via the Eyes of the Reporter Who Exposed Her",
       "score": 18,
-      "descendants": 0,
+      "descendants": 1,
       "homepage": false,
       "time": 1792304386,
       "url": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html"
@@ -301,8 +418,8 @@
     {
       "id": 50138156,
       "title": "The game industry is broken – can we fix it?",
-      "score": 37,
-      "descendants": 78,
+      "score": 38,
+      "descendants": 80,
       "homepage": false,
       "time": 1792302899,
       "url": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash"
@@ -310,8 +427,8 @@
     {
       "id": 50138087,
       "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-      "score": 115,
-      "descendants": 98,
+      "score": 120,
+      "descendants": 101,
       "homepage": false,
       "time": 1792301756,
       "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685"
@@ -319,7 +436,7 @@
     {
       "id": 50137820,
       "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-      "score": 57,
+      "score": 59,
       "descendants": 21,
       "homepage": false,
       "time": 1792301407,
@@ -328,8 +445,8 @@
     {
       "id": 50110081,
       "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-      "score": 58,
-      "descendants": 12,
+      "score": 61,
+      "descendants": 14,
       "homepage": false,
       "time": 1792300898,
       "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo"
@@ -347,8 +464,8 @@
     {
       "id": 50138044,
       "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-      "score": 112,
-      "descendants": 24,
+      "score": 122,
+      "descendants": 27,
       "homepage": false,
       "time": 1792299761,
       "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole"
@@ -356,8 +473,8 @@
     {
       "id": 50137950,
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "score": 201,
-      "descendants": 62,
+      "score": 219,
+      "descendants": 74,
       "homepage": true,
       "time": 1792299376,
       "url": "https://sphinx-six-theta.vercel.app/"
@@ -365,8 +482,8 @@
     {
       "id": 50137620,
       "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "score": 250,
-      "descendants": 314,
+      "score": 296,
+      "descendants": 396,
       "homepage": true,
       "time": 1792298174,
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
@@ -374,8 +491,8 @@
     {
       "id": 50130379,
       "title": "Interactive Linear Programming in the Browser",
-      "score": 68,
-      "descendants": 5,
+      "score": 70,
+      "descendants": 12,
       "homepage": false,
       "time": 1792297287,
       "url": "https://lpviz.net/"
@@ -401,8 +518,8 @@
     {
       "id": 50114758,
       "title": "Lean now ships with verified kernels",
-      "score": 175,
-      "descendants": 60,
+      "score": 189,
+      "descendants": 68,
       "homepage": true,
       "time": 1792288715,
       "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/"
@@ -410,8 +527,8 @@
     {
       "id": 50136881,
       "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-      "score": 534,
-      "descendants": 336,
+      "score": 550,
+      "descendants": 351,
       "homepage": false,
       "time": 1792287633,
       "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"
@@ -419,7 +536,7 @@
     {
       "id": 50097257,
       "title": "Custom server to revive neato bots",
-      "score": 57,
+      "score": 61,
       "descendants": 3,
       "homepage": false,
       "time": 1792285098,
@@ -428,8 +545,8 @@
     {
       "id": 50136536,
       "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "score": 384,
-      "descendants": 177,
+      "score": 402,
+      "descendants": 183,
       "homepage": false,
       "time": 1792284905,
       "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
@@ -447,7 +564,7 @@
       "id": 50136198,
       "title": "Retired Penn professor arrested for blocking Uber Eats robot",
       "score": 71,
-      "descendants": 135,
+      "descendants": 136,
       "homepage": false,
       "time": 1792280492,
       "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l"
@@ -455,8 +572,8 @@
     {
       "id": 50135379,
       "title": "JDK 28",
-      "score": 114,
-      "descendants": 67,
+      "score": 115,
+      "descendants": 69,
       "homepage": false,
       "time": 1792278258,
       "url": "https://openjdk.org/projects/jdk/28/"
@@ -464,7 +581,7 @@
     {
       "id": 50092722,
       "title": "An ESPN producer who quit because of sports gambling",
-      "score": 156,
+      "score": 157,
       "descendants": 122,
       "homepage": false,
       "time": 1792277838,
@@ -473,8 +590,8 @@
     {
       "id": 50090927,
       "title": "Types of types: Haskell's Kind system",
-      "score": 84,
-      "descendants": 66,
+      "score": 85,
+      "descendants": 67,
       "homepage": false,
       "time": 1792274229,
       "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/"
@@ -482,8 +599,8 @@
     {
       "id": 50133231,
       "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "score": 157,
-      "descendants": 77,
+      "score": 163,
+      "descendants": 80,
       "homepage": false,
       "time": 1792271492,
       "url": "https://github.com/openai/codex/issues/25921"
@@ -501,7 +618,7 @@
       "id": 50134617,
       "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
       "score": 117,
-      "descendants": 146,
+      "descendants": 148,
       "homepage": false,
       "time": 1792269003,
       "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"
@@ -509,7 +626,7 @@
     {
       "id": 50101649,
       "title": "Laser Fault Injection on a Budget: RP2350 Edition (2025)",
-      "score": 64,
+      "score": 65,
       "descendants": 17,
       "homepage": false,
       "time": 1792266988,
@@ -527,8 +644,8 @@
     {
       "id": 50133830,
       "title": "Microsoft and CMU team up to train early career software engineers",
-      "score": 68,
-      "descendants": 88,
+      "score": 69,
+      "descendants": 91,
       "homepage": false,
       "time": 1792266439,
       "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise"
@@ -536,8 +653,8 @@
     {
       "id": 50133150,
       "title": "I Became a Citizen of Japan",
-      "score": 217,
-      "descendants": 160,
+      "score": 221,
+      "descendants": 164,
       "homepage": false,
       "time": 1792266276,
       "url": "https://www.derekwessman.com/blog-1/natural"
@@ -545,7 +662,7 @@
     {
       "id": 50134190,
       "title": "Israeli settlers attack European diplomats in the West Bank",
-      "score": 65,
+      "score": 67,
       "descendants": 14,
       "homepage": false,
       "time": 1792265548,
@@ -554,8 +671,8 @@
     {
       "id": 50133274,
       "title": "Israeli settlers attack European diplomatic cars in West Bank beat French mayor",
-      "score": 136,
-      "descendants": 20,
+      "score": 141,
+      "descendants": 21,
       "homepage": false,
       "time": 1792265404,
       "url": "https://www.lemonde.fr/en/international/article/2026/10/17/israeli-settlers-attack-european-diplomatic-cars-in-west-bank-beat-french-mayor-say-witnesses_6758711_4.html"
@@ -564,7 +681,7 @@
       "id": 50133713,
       "title": "AI Can Write the Code. Who Verifies It?",
       "score": 27,
-      "descendants": 64,
+      "descendants": 65,
       "homepage": false,
       "time": 1792264602,
       "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it"
@@ -581,8 +698,8 @@
     {
       "id": 50133736,
       "title": "Pattern matching beats narrative reasoning",
-      "score": 51,
-      "descendants": 34,
+      "score": 52,
+      "descendants": 35,
       "homepage": false,
       "time": 1792264089,
       "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative"
@@ -590,8 +707,8 @@
     {
       "id": 50126253,
       "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "score": 516,
-      "descendants": 107,
+      "score": 535,
+      "descendants": 115,
       "homepage": true,
       "time": 1792263568,
       "url": "https://www.nature.com/articles/d41586-026-03266-x"
@@ -599,8 +716,8 @@
     {
       "id": 50127586,
       "title": "Source code of the Estonian online voting system",
-      "score": 224,
-      "descendants": 210,
+      "score": 227,
+      "descendants": 213,
       "homepage": false,
       "time": 1792263503,
       "url": "https://github.com/valimised/ivxv"
@@ -617,7 +734,7 @@
     {
       "id": 50126384,
       "title": "Show HN: Things to Do API",
-      "score": 52,
+      "score": 53,
       "descendants": 25,
       "homepage": false,
       "time": 1792263406,
@@ -626,8 +743,8 @@
     {
       "id": 50118098,
       "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-      "score": 67,
-      "descendants": 16,
+      "score": 69,
+      "descendants": 17,
       "homepage": false,
       "time": 1792263373,
       "url": "https://github.com/Kapendev/parin"
@@ -635,7 +752,7 @@
     {
       "id": 50132870,
       "title": "Gold is now the top U.S. export",
-      "score": 383,
+      "score": 393,
       "descendants": 211,
       "homepage": false,
       "time": 1792263341,
@@ -644,8 +761,8 @@
     {
       "id": 50126312,
       "title": "Dam removals are bringing fish back across the northeastern United States",
-      "score": 318,
-      "descendants": 81,
+      "score": 342,
+      "descendants": 87,
       "homepage": true,
       "time": 1792263243,
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"
@@ -653,8 +770,8 @@
     {
       "id": 50127572,
       "title": "A skeptic's first contact with Kubernetes (2024)",
-      "score": 132,
-      "descendants": 75,
+      "score": 137,
+      "descendants": 78,
       "homepage": false,
       "time": 1792263052,
       "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/"
@@ -690,8 +807,8 @@
     {
       "id": 50133401,
       "title": "OpenCode Hacked: User credentials leaked",
-      "score": 899,
-      "descendants": 170,
+      "score": 918,
+      "descendants": 172,
       "homepage": false,
       "time": 1792260954,
       "url": "https://twitter.com/opencode/status/2111516673953935833"
@@ -699,8 +816,8 @@
     {
       "id": 50132193,
       "title": "Pele – Mermaid diagrams as themeable SVG",
-      "score": 516,
-      "descendants": 47,
+      "score": 550,
+      "descendants": 52,
       "homepage": true,
       "time": 1792260525,
       "url": "https://pele.run/"
@@ -708,8 +825,8 @@
     {
       "id": 50131006,
       "title": "Show HN: High-quality duck audio synthesizer",
-      "score": 157,
-      "descendants": 37,
+      "score": 161,
+      "descendants": 39,
       "homepage": false,
       "time": 1792260228,
       "url": "https://celphase.github.io/duck-pond/"
@@ -717,8 +834,8 @@
     {
       "id": 50094887,
       "title": "Vintage Cassettes: 1963-2010",
-      "score": 71,
-      "descendants": 9,
+      "score": 73,
+      "descendants": 11,
       "homepage": false,
       "time": 1792259770,
       "url": "http://vintagecassettes.com/"
@@ -726,7 +843,7 @@
     {
       "id": 50100366,
       "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "score": 223,
+      "score": 225,
       "descendants": 34,
       "homepage": false,
       "time": 1792259479,
@@ -735,8 +852,8 @@
     {
       "id": 50132950,
       "title": "Development statistics for the 7.2 kernel",
-      "score": 136,
-      "descendants": 109,
+      "score": 137,
+      "descendants": 111,
       "homepage": false,
       "time": 1792259182,
       "url": "https://lwn.net/Articles/1088776/"
@@ -754,7 +871,7 @@
       "id": 50132502,
       "title": "OpenAI discloses four more rogue incidents",
       "score": 129,
-      "descendants": 155,
+      "descendants": 157,
       "homepage": false,
       "time": 1792257404,
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
@@ -772,9 +889,9 @@
     {
       "id": 50100994,
       "title": "Furifont, a Japanese font that shows furigana",
-      "score": 384,
-      "descendants": 81,
-      "homepage": true,
+      "score": 390,
+      "descendants": 82,
+      "homepage": false,
       "time": 1792256139,
       "url": "https://furifont.antfu.me/"
     },
@@ -782,7 +899,7 @@
       "id": 50132278,
       "title": "Amazon uses AI to monitor union risk in UK warehouses",
       "score": 169,
-      "descendants": 58,
+      "descendants": 59,
       "homepage": false,
       "time": 1792255846,
       "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
@@ -791,7 +908,7 @@
       "id": 50132328,
       "title": "GLP-1 may slow biological aging",
       "score": 179,
-      "descendants": 171,
+      "descendants": 175,
       "homepage": false,
       "time": 1792255395,
       "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"
@@ -808,8 +925,8 @@
     {
       "id": 50131440,
       "title": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
-      "score": 194,
-      "descendants": 197,
+      "score": 199,
+      "descendants": 198,
       "homepage": false,
       "time": 1792251129,
       "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html"
@@ -826,8 +943,8 @@
     {
       "id": 50131189,
       "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "score": 184,
-      "descendants": 35,
+      "score": 189,
+      "descendants": 39,
       "homepage": false,
       "time": 1792249771,
       "url": "https://github.com/mikroverk/esp32sim"
@@ -844,7 +961,7 @@
     {
       "id": 50082358,
       "title": "A Tudor life in the time of plague (2020)",
-      "score": 51,
+      "score": 52,
       "descendants": 3,
       "homepage": false,
       "time": 1792248899,
@@ -853,7 +970,7 @@
     {
       "id": 50131213,
       "title": "Making chicken transparent using Dorito dust",
-      "score": 335,
+      "score": 341,
       "descendants": 86,
       "homepage": false,
       "time": 1792247120,
@@ -871,7 +988,7 @@
     {
       "id": 50121506,
       "title": "The First Candid",
-      "score": 45,
+      "score": 46,
       "descendants": 10,
       "homepage": false,
       "time": 1792246248,
@@ -880,7 +997,7 @@
     {
       "id": 50129947,
       "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-      "score": 314,
+      "score": 318,
       "descendants": 50,
       "homepage": false,
       "time": 1792246152,
@@ -889,8 +1006,8 @@
     {
       "id": 50131256,
       "title": "Solar surpasses nuclear power globally for first time",
-      "score": 647,
-      "descendants": 410,
+      "score": 660,
+      "descendants": 426,
       "homepage": false,
       "time": 1792245929,
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
@@ -962,7 +1079,7 @@
     {
       "id": 50104783,
       "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
-      "score": 41,
+      "score": 42,
       "descendants": 16,
       "homepage": false,
       "time": 1792230821,
@@ -989,7 +1106,7 @@
     {
       "id": 50129121,
       "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "score": 514,
+      "score": 515,
       "descendants": 5,
       "homepage": false,
       "time": 1792227938,
@@ -998,8 +1115,8 @@
     {
       "id": 50089577,
       "title": "Tell HN: Remember to migrate away from .name domain",
-      "score": 157,
-      "descendants": 100,
+      "score": 161,
+      "descendants": 105,
       "homepage": false,
       "time": 1792227203,
       "url": "https://news.ycombinator.com/item?id=50089577"
@@ -1007,16 +1124,16 @@
     {
       "id": 50129045,
       "title": "DeepSeek-v4.1-Flash-1017",
-      "score": 918,
-      "descendants": 680,
-      "homepage": true,
+      "score": 926,
+      "descendants": 688,
+      "homepage": false,
       "time": 1792226821,
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": 50128468,
       "title": "Why Math Dumped OpenAI",
-      "score": 61,
+      "score": 68,
       "descendants": 14,
       "homepage": false,
       "time": 1792224685,
@@ -1034,8 +1151,8 @@
     {
       "id": 50103255,
       "title": "Intuitive concurrent programming in any language",
-      "score": 130,
-      "descendants": 37,
+      "score": 131,
+      "descendants": 38,
       "homepage": false,
       "time": 1792219980,
       "url": "https://www.lf-lang.org/"
@@ -1052,8 +1169,8 @@
     {
       "id": 50128297,
       "title": "Israeli settlers attack olive framers & Washington Post journalist in West Bank",
-      "score": 148,
-      "descendants": 53,
+      "score": 151,
+      "descendants": 54,
       "homepage": false,
       "time": 1792217091,
       "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
@@ -1061,7 +1178,7 @@
     {
       "id": 50088767,
       "title": "0/1 Knapsack Problem in PyTorch",
-      "score": 49,
+      "score": 51,
       "descendants": 6,
       "homepage": false,
       "time": 1792216358,
@@ -1098,8 +1215,8 @@
     {
       "id": 50088937,
       "title": "California is building a $400M shield for Yosemite's most dangerous highway",
-      "score": 49,
-      "descendants": 60,
+      "score": 50,
+      "descendants": 61,
       "homepage": false,
       "time": 1792209133,
       "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php"
@@ -1107,7 +1224,7 @@
     {
       "id": 50126334,
       "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-      "score": 42,
+      "score": 44,
       "descendants": 24,
       "homepage": false,
       "time": 1792208012,
@@ -1116,8 +1233,8 @@
     {
       "id": 50106747,
       "title": "Ultramarine 1 Flash",
-      "score": 375,
-      "descendants": 108,
+      "score": 376,
+      "descendants": 109,
       "homepage": false,
       "time": 1792207563,
       "url": "https://www.paperinstruments.com/ultramarine"
