@@ -1,29 +1,183 @@
 {
-  "updatedAt": "2026-11-12T02:27:58.865328+00:00",
+  "updatedAt": "2026-11-12T10:10:56.445105+00:00",
   "stories": [
+    {
+      "id": 50438958,
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "score": 13,
+      "descendants": 6,
+      "homepage": true,
+      "time": 1794476219,
+      "url": "https://blog.benjamin.ie/legocam"
+    },
+    {
+      "id": 50425017,
+      "title": "A live tree of systemd jobs on the boot console",
+      "score": 50,
+      "descendants": 5,
+      "homepage": true,
+      "time": 1794472604,
+      "url": "https://codeberg.org/wvhulle/bootvine"
+    },
+    {
+      "id": 50463813,
+      "title": "Removed story",
+      "score": 15,
+      "descendants": 0,
+      "homepage": false,
+      "time": 1794469675,
+      "dead": true,
+      "url": "https://news.ycombinator.com/item?id=50463813"
+    },
+    {
+      "id": 50463899,
+      "title": "Humble Bundle just killed most of their security through vibecoding",
+      "score": 283,
+      "descendants": 158,
+      "homepage": false,
+      "time": 1794469071,
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"
+    },
+    {
+      "id": 50456279,
+      "title": "The Lost World of Aquaterra",
+      "score": 11,
+      "descendants": 0,
+      "homepage": true,
+      "time": 1794468976,
+      "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/"
+    },
+    {
+      "id": 50438261,
+      "title": "Jane Street: Socratic Tutor",
+      "score": 200,
+      "descendants": 48,
+      "homepage": true,
+      "time": 1794465359,
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
+    },
+    {
+      "id": 50415162,
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "score": 79,
+      "descendants": 38,
+      "homepage": true,
+      "time": 1794465077,
+      "url": "https://jatorre.github.io/garden/"
+    },
+    {
+      "id": 50463540,
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "score": 41,
+      "descendants": 11,
+      "homepage": true,
+      "time": 1794464759,
+      "url": "https://www.getlazarus.org/forums/topic/17/"
+    },
+    {
+      "id": 50462613,
+      "title": "Bad ideas that aren't bad anymore",
+      "score": 68,
+      "descendants": 53,
+      "homepage": true,
+      "time": 1794464312,
+      "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore"
+    },
+    {
+      "id": 50420905,
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+      "score": 29,
+      "descendants": 7,
+      "homepage": true,
+      "time": 1794461457,
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/"
+    },
+    {
+      "id": 50461786,
+      "title": "I caught Microsoft Defender uploading my unreleased software without asking",
+      "score": 38,
+      "descendants": 16,
+      "homepage": false,
+      "time": 1794461134,
+      "url": "https://garrettstimpson.ca/posts/2026/11/11/caught-microsoft-red-handed-with-hodometer/"
+    },
+    {
+      "id": 50462469,
+      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+      "score": 7,
+      "descendants": 1,
+      "homepage": false,
+      "time": 1794460843,
+      "url": "https://github.com/DaleFranks/ramasite"
+    },
+    {
+      "id": 50463103,
+      "title": "Darling Development Update – Q4 2026",
+      "score": 27,
+      "descendants": 5,
+      "homepage": true,
+      "time": 1794459304,
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/"
+    },
+    {
+      "id": 50435712,
+      "title": "Stingray Fish Laser",
+      "score": 28,
+      "descendants": 27,
+      "homepage": false,
+      "time": 1794454169,
+      "url": "https://www.stingray.no/en/technology/"
+    },
+    {
+      "id": 50462375,
+      "title": "Lean Grimoire",
+      "score": 36,
+      "descendants": 6,
+      "homepage": true,
+      "time": 1794453203,
+      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/"
+    },
+    {
+      "id": 50462177,
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "score": 203,
+      "descendants": 88,
+      "homepage": true,
+      "time": 1794451890,
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+    },
+    {
+      "id": 50428619,
+      "title": "Did Life Begin in an RNA World?",
+      "score": 61,
+      "descendants": 27,
+      "homepage": true,
+      "time": 1794450539,
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/"
+    },
     {
       "id": 50412715,
       "title": "How to make a CNC plasma cutter with high-frequency start",
-      "score": 11,
-      "descendants": 2,
-      "homepage": true,
+      "score": 37,
+      "descendants": 11,
+      "homepage": false,
       "time": 1794446892,
       "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html"
     },
     {
       "id": 50422216,
       "title": "Making the Iron Giant Live",
-      "score": 11,
+      "score": 19,
       "descendants": 1,
-      "homepage": true,
+      "homepage": false,
       "time": 1794443199,
       "url": "https://animationobsessive.substack.com/p/making-the-iron-giant-live"
     },
     {
       "id": 50460398,
       "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "score": 19,
-      "descendants": 5,
+      "score": 31,
+      "descendants": 7,
       "homepage": false,
       "time": 1794440291,
       "url": "https://developer.chrome.com/blog/modern-web-guidance-v1"
@@ -31,8 +185,8 @@
     {
       "id": 50460154,
       "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "score": 59,
-      "descendants": 19,
+      "score": 109,
+      "descendants": 43,
       "homepage": true,
       "time": 1794439993,
       "url": "https://github.com/tylertms/Stela"
@@ -40,9 +194,9 @@
     {
       "id": 50435240,
       "title": "A Brief History of Sierra Online (2017)",
-      "score": 24,
-      "descendants": 3,
-      "homepage": true,
+      "score": 51,
+      "descendants": 20,
+      "homepage": false,
       "time": 1794439562,
       "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/"
     },
@@ -58,8 +212,8 @@
     {
       "id": 50459703,
       "title": "Nvidia is preparing to oust Jensen Huang",
-      "score": 556,
-      "descendants": 803,
+      "score": 1024,
+      "descendants": 1381,
       "homepage": true,
       "time": 1794436641,
       "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
@@ -67,8 +221,8 @@
     {
       "id": 50459745,
       "title": "93% of paint splatters are valid Perl programs (2019)",
-      "score": 173,
-      "descendants": 26,
+      "score": 428,
+      "descendants": 56,
       "homepage": true,
       "time": 1794436607,
       "url": "https://www.mcmillen.dev/sigbovik/"
@@ -76,17 +230,17 @@
     {
       "id": 50416365,
       "title": "Optimizing Reference Deletions in Git",
-      "score": 28,
-      "descendants": 0,
-      "homepage": true,
+      "score": 34,
+      "descendants": 1,
+      "homepage": false,
       "time": 1794435919,
       "url": "https://nayak.im/posts/optimizing-reference-deletion/"
     },
     {
       "id": 50459485,
       "title": "Lock Your GitHub Actions",
-      "score": 144,
-      "descendants": 23,
+      "score": 253,
+      "descendants": 51,
       "homepage": true,
       "time": 1794435467,
       "url": "https://hugovk.dev/blog/2026/lock-github-actions/"
@@ -94,17 +248,17 @@
     {
       "id": 50459321,
       "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "score": 237,
-      "descendants": 231,
-      "homepage": true,
+      "score": 365,
+      "descendants": 453,
+      "homepage": false,
       "time": 1794435081,
       "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
     },
     {
       "id": 50458900,
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "score": 400,
-      "descendants": 383,
+      "score": 556,
+      "descendants": 548,
       "homepage": true,
       "time": 1794433651,
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
@@ -112,7 +266,7 @@
     {
       "id": 50458710,
       "title": "Play GTA5 on Browser",
-      "score": 78,
+      "score": 83,
       "descendants": 62,
       "homepage": false,
       "time": 1794433490,
@@ -121,8 +275,8 @@
     {
       "id": 50458434,
       "title": "Tools for exploring the souls of large language models",
-      "score": 36,
-      "descendants": 9,
+      "score": 49,
+      "descendants": 12,
       "homepage": false,
       "time": 1794432523,
       "url": "https://oshea00.github.io/posts/tinygpt-visualizer/"
@@ -130,26 +284,26 @@
     {
       "id": 50433042,
       "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "score": 48,
-      "descendants": 25,
-      "homepage": true,
+      "score": 54,
+      "descendants": 27,
+      "homepage": false,
       "time": 1794432262,
       "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding"
     },
     {
       "id": 50449440,
       "title": "The Apple Support Community will permanently close on November 20, 2026",
-      "score": 132,
-      "descendants": 212,
-      "homepage": true,
+      "score": 155,
+      "descendants": 225,
+      "homepage": false,
       "time": 1794431901,
       "url": "https://discussions.apple.com/welcome"
     },
     {
       "id": 50457618,
       "title": "The Utah Teapot",
-      "score": 87,
-      "descendants": 19,
+      "score": 139,
+      "descendants": 33,
       "homepage": true,
       "time": 1794431706,
       "url": "https://graphics.cs.utah.edu/teapot/"
@@ -157,8 +311,8 @@
     {
       "id": 50458532,
       "title": "GitHub Incident with Webhooks, Actions, etc.",
-      "score": 78,
-      "descendants": 58,
+      "score": 81,
+      "descendants": 61,
       "homepage": false,
       "time": 1794430834,
       "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg"
@@ -166,8 +320,8 @@
     {
       "id": 50458166,
       "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "score": 61,
-      "descendants": 20,
+      "score": 107,
+      "descendants": 25,
       "homepage": true,
       "time": 1794429858,
       "url": "https://github.com/huawei-csl/MACaQ"
@@ -175,8 +329,8 @@
     {
       "id": 50458208,
       "title": "Emacs in the Age of Magic",
-      "score": 148,
-      "descendants": 53,
+      "score": 230,
+      "descendants": 105,
       "homepage": true,
       "time": 1794429600,
       "url": "https://commandlinesystems.com/magic.txt"
@@ -193,8 +347,8 @@
     {
       "id": 50457083,
       "title": "Cancer vaccine for Yash, he's diagnosed with stage IV pancreatic cancer",
-      "score": 71,
-      "descendants": 12,
+      "score": 81,
+      "descendants": 15,
       "homepage": false,
       "time": 1794427965,
       "url": "https://github.com/popvax/yash"
@@ -202,8 +356,8 @@
     {
       "id": 50457939,
       "title": "Why are we still working this hard?",
-      "score": 210,
-      "descendants": 259,
+      "score": 227,
+      "descendants": 272,
       "homepage": false,
       "time": 1794427799,
       "url": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/"
@@ -211,17 +365,17 @@
     {
       "id": 50457669,
       "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "score": 52,
-      "descendants": 24,
-      "homepage": true,
+      "score": 54,
+      "descendants": 26,
+      "homepage": false,
       "time": 1794427504,
       "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027"
     },
     {
       "id": 50456791,
       "title": "Gemini Decisions API",
-      "score": 286,
-      "descendants": 87,
+      "score": 433,
+      "descendants": 130,
       "homepage": true,
       "time": 1794426848,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
@@ -229,8 +383,8 @@
     {
       "id": 50457164,
       "title": "Retirement Savings Are Fueling the AI Bubble",
-      "score": 138,
-      "descendants": 147,
+      "score": 158,
+      "descendants": 165,
       "homepage": false,
       "time": 1794425462,
       "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
@@ -238,8 +392,8 @@
     {
       "id": 50457197,
       "title": "Jensen Huang Must Resign",
-      "score": 55,
-      "descendants": 165,
+      "score": 57,
+      "descendants": 173,
       "homepage": false,
       "time": 1794425364,
       "url": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign"
@@ -247,8 +401,8 @@
     {
       "id": 50438435,
       "title": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
-      "score": 36,
-      "descendants": 6,
+      "score": 40,
+      "descendants": 8,
       "homepage": false,
       "time": 1794424971,
       "url": "https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation"
@@ -256,17 +410,17 @@
     {
       "id": 50457230,
       "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "score": 182,
-      "descendants": 76,
-      "homepage": true,
+      "score": 227,
+      "descendants": 86,
+      "homepage": false,
       "time": 1794424778,
       "url": "https://termsheetplease.com/"
     },
     {
       "id": 50456010,
       "title": "The Power and Legacy of Virginia Tech's Mac-Based Supercomputers",
-      "score": 39,
-      "descendants": 12,
+      "score": 41,
+      "descendants": 14,
       "homepage": false,
       "time": 1794424198,
       "url": "https://512pixels.net/2026/11/va-tech-system-x-system-g/"
@@ -283,8 +437,8 @@
     {
       "id": 50456631,
       "title": "AWS emulator",
-      "score": 688,
-      "descendants": 219,
+      "score": 849,
+      "descendants": 236,
       "homepage": true,
       "time": 1794421453,
       "url": "https://github.com/aws/aws-emulator"
@@ -292,7 +446,7 @@
     {
       "id": 50436788,
       "title": "A C++ Quicksort Faster Than std:sort",
-      "score": 35,
+      "score": 36,
       "descendants": 10,
       "homepage": false,
       "time": 1794421356,
@@ -301,8 +455,8 @@
     {
       "id": 50443264,
       "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-      "score": 47,
-      "descendants": 6,
+      "score": 50,
+      "descendants": 9,
       "homepage": false,
       "time": 1794419580,
       "url": "https://github.com/OpenTSLM/TimeNet"
@@ -310,8 +464,8 @@
     {
       "id": 50413266,
       "title": "Show HN: Micron – Oberon with the Power of C",
-      "score": 53,
-      "descendants": 14,
+      "score": 61,
+      "descendants": 20,
       "homepage": false,
       "time": 1794419092,
       "url": "https://github.com/rochus-keller/Micron"
@@ -319,8 +473,8 @@
     {
       "id": 50450488,
       "title": "Tim Peters has died",
-      "score": 885,
-      "descendants": 94,
+      "score": 1202,
+      "descendants": 134,
       "homepage": true,
       "time": 1794418573,
       "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
@@ -328,8 +482,8 @@
     {
       "id": 50454395,
       "title": "100x Developers",
-      "score": 49,
-      "descendants": 80,
+      "score": 50,
+      "descendants": 81,
       "homepage": false,
       "time": 1794417992,
       "url": "https://jcarreras.es/posts/100x-developers/"
@@ -337,16 +491,16 @@
     {
       "id": 50455811,
       "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "score": 48,
-      "descendants": 39,
-      "homepage": true,
+      "score": 55,
+      "descendants": 43,
+      "homepage": false,
       "time": 1794417829,
       "url": "https://news.ycombinator.com/item?id=50455811"
     },
     {
       "id": 50455031,
       "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
-      "score": 18,
+      "score": 20,
       "descendants": 6,
       "homepage": false,
       "time": 1794417796,
@@ -355,8 +509,8 @@
     {
       "id": 50455633,
       "title": "Faster Retrieval for Better, More Efficient RAG",
-      "score": 161,
-      "descendants": 29,
+      "score": 209,
+      "descendants": 38,
       "homepage": true,
       "time": 1794417730,
       "url": "https://machinelearning.apple.com/research/faster-retrieval"
@@ -364,8 +518,8 @@
     {
       "id": 50427153,
       "title": "Show HN: 3D to 2D, point clouds flattening (geometry images)",
-      "score": 16,
-      "descendants": 5,
+      "score": 21,
+      "descendants": 6,
       "homepage": false,
       "time": 1794417699,
       "url": "https://github.com/Neighborhood-Grid/flatpoints"
@@ -373,8 +527,8 @@
     {
       "id": 50454625,
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "score": 174,
-      "descendants": 79,
+      "score": 241,
+      "descendants": 95,
       "homepage": true,
       "time": 1794417276,
       "url": "https://github.com/FrigadeHQ/yogurt"
@@ -382,7 +536,7 @@
     {
       "id": 50455721,
       "title": "Tech Allies Rally Behind Jensen Huang, Calling Him Vital in AI Race (Gift Link)",
-      "score": 16,
+      "score": 17,
       "descendants": 17,
       "homepage": false,
       "time": 1794417211,
@@ -391,8 +545,8 @@
     {
       "id": 50455358,
       "title": "Reddit Migration's Impact on Lemmy (2023)",
-      "score": 38,
-      "descendants": 35,
+      "score": 41,
+      "descendants": 37,
       "homepage": false,
       "time": 1794416305,
       "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333"
@@ -400,7 +554,7 @@
     {
       "id": 50441181,
       "title": "A Brain Teaser of an Obituary",
-      "score": 11,
+      "score": 12,
       "descendants": 4,
       "homepage": false,
       "time": 1794415687,
@@ -409,8 +563,8 @@
     {
       "id": 50454951,
       "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "score": 71,
-      "descendants": 29,
+      "score": 79,
+      "descendants": 31,
       "homepage": false,
       "time": 1794415558,
       "url": "https://github.com/klad-app/klad"
@@ -418,7 +572,7 @@
     {
       "id": 50454823,
       "title": "The Computer Graphics Book of Knowledge",
-      "score": 68,
+      "score": 75,
       "descendants": 19,
       "homepage": false,
       "time": 1794415525,
@@ -427,8 +581,8 @@
     {
       "id": 50455394,
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "score": 419,
-      "descendants": 215,
+      "score": 494,
+      "descendants": 236,
       "homepage": true,
       "time": 1794415525,
       "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
@@ -436,8 +590,8 @@
     {
       "id": 50455332,
       "title": "AI, activity, and outcomes in software engineering",
-      "score": 105,
-      "descendants": 102,
+      "score": 118,
+      "descendants": 105,
       "homepage": false,
       "time": 1794415429,
       "url": "https://cabird.com/talks/shipping-faster/"
@@ -445,16 +599,16 @@
     {
       "id": 50454995,
       "title": "The hardest notes to find on the guitar",
-      "score": 53,
-      "descendants": 64,
-      "homepage": true,
+      "score": 64,
+      "descendants": 70,
+      "homepage": false,
       "time": 1794415172,
       "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard"
     },
     {
       "id": 50434313,
       "title": "Welcome to Ed and Sam's great adventure",
-      "score": 9,
+      "score": 10,
       "descendants": 1,
       "homepage": false,
       "time": 1794414068,
@@ -463,7 +617,7 @@
     {
       "id": 50453171,
       "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "score": 67,
+      "score": 69,
       "descendants": 5,
       "homepage": false,
       "time": 1794411425,
@@ -472,7 +626,7 @@
     {
       "id": 50438213,
       "title": "The Afterlife of the Berlin Wall",
-      "score": 9,
+      "score": 10,
       "descendants": 0,
       "homepage": false,
       "time": 1794410454,
@@ -481,8 +635,8 @@
     {
       "id": 50453288,
       "title": "Hyper-Realistic Sand with WebGL2",
-      "score": 317,
-      "descendants": 64,
+      "score": 379,
+      "descendants": 71,
       "homepage": true,
       "time": 1794410259,
       "url": "https://av.github.io/safe-sand/"
@@ -490,8 +644,8 @@
     {
       "id": 50452407,
       "title": "In defense of giving a shit",
-      "score": 112,
-      "descendants": 128,
+      "score": 116,
+      "descendants": 130,
       "homepage": false,
       "time": 1794409162,
       "url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/"
@@ -499,7 +653,7 @@
     {
       "id": 50453080,
       "title": "EventSourcingDB 1.3.0 Is Available",
-      "score": 42,
+      "score": 45,
       "descendants": 6,
       "homepage": false,
       "time": 1794407708,
@@ -508,8 +662,8 @@
     {
       "id": 50453229,
       "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-      "score": 96,
-      "descendants": 17,
+      "score": 102,
+      "descendants": 18,
       "homepage": false,
       "time": 1794407644,
       "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim"
@@ -517,9 +671,9 @@
     {
       "id": 50453637,
       "title": "Atuin Threads: All your agent sessions on every machine",
-      "score": 191,
-      "descendants": 73,
-      "homepage": true,
+      "score": 219,
+      "descendants": 79,
+      "homepage": false,
       "time": 1794407543,
       "url": "https://blog.atuin.sh/threads-agent-sessions/"
     },
@@ -535,8 +689,8 @@
     {
       "id": 50453763,
       "title": "Pharo in the Browser with WebAssembly",
-      "score": 118,
-      "descendants": 34,
+      "score": 129,
+      "descendants": 35,
       "homepage": false,
       "time": 1794407093,
       "url": "https://massimo-nocentini.github.io/pharo-vm/world.html"
@@ -544,8 +698,8 @@
     {
       "id": 50416640,
       "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-      "score": 76,
-      "descendants": 17,
+      "score": 79,
+      "descendants": 19,
       "homepage": false,
       "time": 1794406803,
       "url": "https://github.com/lukks/like-webrtc"
@@ -553,7 +707,7 @@
     {
       "id": 50452230,
       "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
-      "score": 13,
+      "score": 14,
       "descendants": 2,
       "homepage": false,
       "time": 1794406642,
@@ -562,8 +716,8 @@
     {
       "id": 50453474,
       "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "score": 338,
-      "descendants": 237,
+      "score": 358,
+      "descendants": 243,
       "homepage": false,
       "time": 1794405902,
       "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"
@@ -571,8 +725,8 @@
     {
       "id": 50452652,
       "title": "We need more goat sacrifices",
-      "score": 189,
-      "descendants": 109,
+      "score": 201,
+      "descendants": 117,
       "homepage": false,
       "time": 1794405227,
       "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices"
@@ -580,8 +734,8 @@
     {
       "id": 50452742,
       "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
-      "score": 166,
-      "descendants": 54,
+      "score": 172,
+      "descendants": 58,
       "homepage": false,
       "time": 1794404941,
       "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/"
@@ -589,7 +743,7 @@
     {
       "id": 50435962,
       "title": "Make this forward pass as fast as possible",
-      "score": 31,
+      "score": 32,
       "descendants": 6,
       "homepage": false,
       "time": 1794403181,
@@ -598,7 +752,7 @@
     {
       "id": 50452224,
       "title": "Physically Controllable Relighting of Photographs",
-      "score": 61,
+      "score": 64,
       "descendants": 14,
       "homepage": false,
       "time": 1794402701,
@@ -616,7 +770,7 @@
     {
       "id": 50452496,
       "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
-      "score": 59,
+      "score": 64,
       "descendants": 13,
       "homepage": false,
       "time": 1794401774,
@@ -625,8 +779,8 @@
     {
       "id": 50452455,
       "title": "My AI agents found an unmapped Maya site?",
-      "score": 932,
-      "descendants": 339,
+      "score": 990,
+      "descendants": 361,
       "homepage": true,
       "time": 1794401742,
       "url": "https://pietromiotti.com/latest/maya-site"
@@ -634,8 +788,8 @@
     {
       "id": 50452655,
       "title": "Can a Linear Program Do Weight-Space Programming?",
-      "score": 247,
-      "descendants": 37,
+      "score": 281,
+      "descendants": 38,
       "homepage": true,
       "time": 1794401710,
       "url": "https://nathan.rs/posts/weight-space-lp/"
@@ -662,8 +816,8 @@
     {
       "id": 50451903,
       "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "score": 265,
-      "descendants": 108,
+      "score": 304,
+      "descendants": 115,
       "homepage": true,
       "time": 1794398190,
       "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
@@ -672,7 +826,7 @@
       "id": 50452074,
       "title": "The Zig project is going nowhere",
       "score": 58,
-      "descendants": 85,
+      "descendants": 86,
       "homepage": false,
       "time": 1794397677,
       "url": "https://bytecode.news/posts/2026/10/the-zig-project-is-going-nowhere"
@@ -690,7 +844,7 @@
       "id": 50424188,
       "title": "Plane lifted into back garden as bunker takes shape",
       "score": 60,
-      "descendants": 54,
+      "descendants": 56,
       "homepage": false,
       "time": 1794392345,
       "url": "https://www.bbc.co.uk/news/articles/cqkgjv4pj023o"
@@ -699,7 +853,7 @@
       "id": 50393070,
       "title": "Why Amstrad chose the 3\" drives",
       "score": 87,
-      "descendants": 34,
+      "descendants": 36,
       "homepage": false,
       "time": 1794388718,
       "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/"
@@ -707,8 +861,8 @@
     {
       "id": 50451102,
       "title": "OSS projects banning AI-generated contributions",
-      "score": 61,
-      "descendants": 106,
+      "score": 63,
+      "descendants": 109,
       "homepage": false,
       "time": 1794388244,
       "url": "https://osssaysno.com"
@@ -716,8 +870,8 @@
     {
       "id": 50449891,
       "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "score": 140,
-      "descendants": 60,
+      "score": 146,
+      "descendants": 64,
       "homepage": false,
       "time": 1794387197,
       "url": "https://github.com/adrbn/bo2-mac"
@@ -734,7 +888,7 @@
     {
       "id": 50429210,
       "title": "A ZIP-style Prolog VM for trilog",
-      "score": 35,
+      "score": 39,
       "descendants": 14,
       "homepage": false,
       "time": 1794381483,
@@ -743,8 +897,8 @@
     {
       "id": 50414657,
       "title": "A Compendium of Abandoned Greenhouses",
-      "score": 71,
-      "descendants": 9,
+      "score": 72,
+      "descendants": 10,
       "homepage": false,
       "time": 1794377862,
       "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/"
@@ -752,8 +906,8 @@
     {
       "id": 50450007,
       "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "score": 114,
-      "descendants": 77,
+      "score": 119,
+      "descendants": 81,
       "homepage": false,
       "time": 1794375769,
       "url": "https://github.com/gmkurtzer/ginux"
@@ -770,8 +924,8 @@
     {
       "id": 50449748,
       "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "score": 382,
-      "descendants": 136,
+      "score": 389,
+      "descendants": 138,
       "homepage": false,
       "time": 1794372195,
       "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
@@ -780,7 +934,7 @@
       "id": 50420579,
       "title": "Unremarkable things we made in 2026",
       "score": 32,
-      "descendants": 3,
+      "descendants": 4,
       "homepage": false,
       "time": 1794370636,
       "url": "https://www.neilchen.co/blog/things2026"
@@ -788,8 +942,8 @@
     {
       "id": 50449275,
       "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "score": 154,
-      "descendants": 153,
+      "score": 155,
+      "descendants": 157,
       "homepage": false,
       "time": 1794367507,
       "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
@@ -797,7 +951,7 @@
     {
       "id": 50449080,
       "title": "Hooked on Tuna",
-      "score": 51,
+      "score": 52,
       "descendants": 27,
       "homepage": false,
       "time": 1794365912,
@@ -806,7 +960,7 @@
     {
       "id": 50427107,
       "title": "Why I wrote the BEAM book (2025)",
-      "score": 188,
+      "score": 197,
       "descendants": 44,
       "homepage": false,
       "time": 1794363399,
@@ -815,8 +969,8 @@
     {
       "id": 50448921,
       "title": "A great old-timey game-programming hack (2013)",
-      "score": 263,
-      "descendants": 64,
+      "score": 270,
+      "descendants": 67,
       "homepage": false,
       "time": 1794362193,
       "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html"
@@ -833,7 +987,7 @@
     {
       "id": 50432637,
       "title": "Ergodic Literature",
-      "score": 33,
+      "score": 34,
       "descendants": 9,
       "homepage": false,
       "time": 1794359776,
@@ -842,8 +996,8 @@
     {
       "id": 50448174,
       "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-      "score": 57,
-      "descendants": 78,
+      "score": 58,
+      "descendants": 86,
       "homepage": false,
       "time": 1794359070,
       "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/"
@@ -869,8 +1023,8 @@
     {
       "id": 50447036,
       "title": "$30M Raised to Redo the CPU",
-      "score": 137,
-      "descendants": 145,
+      "score": 143,
+      "descendants": 149,
       "homepage": false,
       "time": 1794357258,
       "url": "https://tendrils.co/blog/2026-11-10/30m-raised"
@@ -878,8 +1032,8 @@
     {
       "id": 50410587,
       "title": "Pinot Noir: inside the criminal gangs making fake wine",
-      "score": 73,
-      "descendants": 39,
+      "score": 74,
+      "descendants": 40,
       "homepage": false,
       "time": 1794356093,
       "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine"
