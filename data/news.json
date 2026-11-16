@@ -1,38 +1,282 @@
 {
-  "updatedAt": "2026-11-16T00:17:25.545584+00:00",
+  "updatedAt": "2026-11-16T07:10:35.819626+00:00",
   "stories": [
+    {
+      "id": 50462816,
+      "title": "The Lasting Influence of John Berger",
+      "score": 5,
+      "descendants": 0,
+      "homepage": true,
+      "time": 1794812142,
+      "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review"
+    },
+    {
+      "id": 50514470,
+      "title": "How to make almost anything",
+      "score": 77,
+      "descendants": 8,
+      "homepage": true,
+      "time": 1794809576,
+      "url": "https://pub.cba.mit.edu/863.26/site/"
+    },
+    {
+      "id": 50467599,
+      "title": "Simple 8085 Computer",
+      "score": 19,
+      "descendants": 1,
+      "homepage": true,
+      "time": 1794808497,
+      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156"
+    },
+    {
+      "id": 50514180,
+      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "score": 49,
+      "descendants": 6,
+      "homepage": true,
+      "time": 1794808198,
+      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101"
+    },
+    {
+      "id": 50514093,
+      "title": "Stop Filming in Log",
+      "score": 28,
+      "descendants": 16,
+      "homepage": true,
+      "time": 1794806981,
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/"
+    },
+    {
+      "id": 50469342,
+      "title": "What happens if you write a TCP stack in Python? (2014)",
+      "score": 12,
+      "descendants": 2,
+      "homepage": false,
+      "time": 1794804852,
+      "url": "https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/"
+    },
+    {
+      "id": 50512218,
+      "title": "Parcel: A desktop mail client for Linux, built with Zig",
+      "score": 20,
+      "descendants": 2,
+      "homepage": false,
+      "time": 1794803612,
+      "url": "https://tangled.org/rockorager.dev/parcel"
+    },
+    {
+      "id": 50513843,
+      "title": "Linux was created as a rejection of robust software architecture and tools",
+      "score": 37,
+      "descendants": 51,
+      "homepage": false,
+      "time": 1794803188,
+      "url": "https://twitter.com/GrapheneOS/status/2122079826257588569"
+    },
+    {
+      "id": 50513451,
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "score": 81,
+      "descendants": 22,
+      "homepage": false,
+      "time": 1794802104,
+      "url": "https://news.ycombinator.com/item?id=50513451"
+    },
+    {
+      "id": 50513589,
+      "title": "New Mexico wanted free childcare for all; what's worked – and what hasn't",
+      "score": 17,
+      "descendants": 10,
+      "homepage": false,
+      "time": 1794802007,
+      "url": "https://text.npr.org/nx-s1-6040194"
+    },
+    {
+      "id": 50513238,
+      "title": "TuringFonts: Publish Uncrawable and Uncopiable Texts",
+      "score": 9,
+      "descendants": 10,
+      "homepage": false,
+      "time": 1794801610,
+      "url": "https://jfmdev.github.io/TuringFonts/index.html"
+    },
+    {
+      "id": 50479405,
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "score": 37,
+      "descendants": 21,
+      "homepage": true,
+      "time": 1794801216,
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html"
+    },
+    {
+      "id": 50512933,
+      "title": "Agentic AI Designs an Analog Synthesizer",
+      "score": 14,
+      "descendants": 2,
+      "homepage": false,
+      "time": 1794798394,
+      "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/"
+    },
+    {
+      "id": 50513215,
+      "title": "Qwen4-Max",
+      "score": 374,
+      "descendants": 126,
+      "homepage": true,
+      "time": 1794797602,
+      "url": "https://qwen.ai/blog?id=qwen4-max"
+    },
+    {
+      "id": 50485275,
+      "title": "Artificial Intelligence for the Z80",
+      "score": 27,
+      "descendants": 1,
+      "homepage": true,
+      "time": 1794797602,
+      "url": "https://www.dfsantos.com/en/libro-ia-z80"
+    },
+    {
+      "id": 50512296,
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "score": 31,
+      "descendants": 2,
+      "homepage": true,
+      "time": 1794796611,
+      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone"
+    },
+    {
+      "id": 50513160,
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "score": 270,
+      "descendants": 69,
+      "homepage": true,
+      "time": 1794795590,
+      "url": "https://iter.ca/post/ubo-uxss/"
+    },
+    {
+      "id": 50513077,
+      "title": "Removed story",
+      "score": 9,
+      "descendants": 0,
+      "homepage": false,
+      "time": 1794794769,
+      "dead": true,
+      "url": "https://news.ycombinator.com/item?id=50513077"
+    },
+    {
+      "id": 50484998,
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "score": 59,
+      "descendants": 6,
+      "homepage": true,
+      "time": 1794793938,
+      "url": "https://www.paradedb.com/blog/joins"
+    },
+    {
+      "id": 50512950,
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "score": 82,
+      "descendants": 67,
+      "homepage": false,
+      "time": 1794793642,
+      "url": "https://www.hntrends.com/2026/november.html"
+    },
+    {
+      "id": 50511362,
+      "title": "DefCon: Breaking into Amazon Lockers by Any Means Necessary",
+      "score": 10,
+      "descendants": 2,
+      "homepage": false,
+      "time": 1794793213,
+      "url": "https://www.youtube.com/watch?v=ZVmRe8OVZtE"
+    },
+    {
+      "id": 50512824,
+      "title": "Coles hit by a cybersecurity incident",
+      "score": 91,
+      "descendants": 67,
+      "homepage": true,
+      "time": 1794792984,
+      "url": "https://www.colesgroup.com.au/updates/"
+    },
+    {
+      "id": 50512441,
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "score": 118,
+      "descendants": 29,
+      "homepage": true,
+      "time": 1794792225,
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
+    },
+    {
+      "id": 50490583,
+      "title": "1900s How do you Wash a Kimono?",
+      "score": 45,
+      "descendants": 12,
+      "homepage": false,
+      "time": 1794790302,
+      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints"
+    },
+    {
+      "id": 50512235,
+      "title": "What's Next for Nvidia?",
+      "score": 194,
+      "descendants": 257,
+      "homepage": true,
+      "time": 1794789792,
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
+    },
+    {
+      "id": 50512231,
+      "title": "Mini.nvim Is Now on Tangled",
+      "score": 57,
+      "descendants": 14,
+      "homepage": true,
+      "time": 1794788739,
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim"
+    },
+    {
+      "id": 50511763,
+      "title": "Huang Discusses Comeback as Nvidia Chief with Allies, FT Says",
+      "score": 32,
+      "descendants": 1,
+      "homepage": false,
+      "time": 1794788633,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says"
+    },
     {
       "id": 50482702,
       "title": "A DrRacket style editor for Clojure with some Lisp Machine inspired features",
-      "score": 9,
-      "descendants": 0,
-      "homepage": true,
+      "score": 17,
+      "descendants": 2,
+      "homepage": false,
       "time": 1794786578,
       "url": "https://jonquil.b12n.app/"
     },
     {
       "id": 50511982,
       "title": "Jensen Huang might return to Nvidia as CEO",
-      "score": 72,
-      "descendants": 44,
-      "homepage": true,
+      "score": 159,
+      "descendants": 156,
+      "homepage": false,
       "time": 1794785679,
       "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/"
     },
     {
       "id": 50511718,
       "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "score": 19,
-      "descendants": 3,
-      "homepage": true,
+      "score": 69,
+      "descendants": 12,
+      "homepage": false,
       "time": 1794785376,
       "url": "https://lastcomplication.com/"
     },
     {
       "id": 50511899,
       "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-      "score": 30,
-      "descendants": 9,
+      "score": 33,
+      "descendants": 12,
       "homepage": false,
       "time": 1794785341,
       "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/"
@@ -40,17 +284,17 @@
     {
       "id": 50511505,
       "title": "The Hofmann Wobble: Wikipedia and the problem of historical memory",
-      "score": 11,
-      "descendants": 2,
-      "homepage": true,
+      "score": 14,
+      "descendants": 4,
+      "homepage": false,
       "time": 1794784608,
       "url": "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/"
     },
     {
       "id": 50511806,
-      "title": "Preserving 30 Years of Salon Journalism",
-      "score": 38,
-      "descendants": 8,
+      "title": "Preserving 30 years of Salon journalism",
+      "score": 134,
+      "descendants": 37,
       "homepage": true,
       "time": 1794784574,
       "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/"
@@ -58,26 +302,26 @@
     {
       "id": 50492012,
       "title": "Keylogger Detection and Containment [pdf]",
-      "score": 13,
-      "descendants": 1,
-      "homepage": true,
+      "score": 21,
+      "descendants": 2,
+      "homepage": false,
       "time": 1794782935,
       "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf"
     },
     {
       "id": 50510042,
       "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
-      "score": 110,
-      "descendants": 36,
-      "homepage": true,
+      "score": 168,
+      "descendants": 76,
+      "homepage": false,
       "time": 1794782634,
       "url": "https://news.ycombinator.com/item?id=50510042"
     },
     {
       "id": 50511395,
-      "title": "Old Bitly Links Are Being Hijacked",
-      "score": 122,
-      "descendants": 59,
+      "title": "Old Bitly links are being hijacked",
+      "score": 252,
+      "descendants": 133,
       "homepage": true,
       "time": 1794781127,
       "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
@@ -95,26 +339,26 @@
     {
       "id": 50511072,
       "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-      "score": 49,
-      "descendants": 28,
-      "homepage": true,
+      "score": 87,
+      "descendants": 52,
+      "homepage": false,
       "time": 1794779361,
       "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/"
     },
     {
       "id": 50465522,
       "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
-      "score": 21,
-      "descendants": 3,
-      "homepage": true,
+      "score": 37,
+      "descendants": 4,
+      "homepage": false,
       "time": 1794779293,
       "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)"
     },
     {
       "id": 50510296,
       "title": "WebGL Flight Simulator with seed generated terrain",
-      "score": 68,
-      "descendants": 9,
+      "score": 121,
+      "descendants": 23,
       "homepage": true,
       "time": 1794778309,
       "url": "https://baron.by.dai.studio/"
@@ -122,8 +366,8 @@
     {
       "id": 50509972,
       "title": "Handwriting, as a Font",
-      "score": 96,
-      "descendants": 22,
+      "score": 226,
+      "descendants": 45,
       "homepage": true,
       "time": 1794778074,
       "url": "https://ductus.sorenblank.com"
@@ -131,8 +375,8 @@
     {
       "id": 50510799,
       "title": "Your Agent Will Pick the Hackable One",
-      "score": 70,
-      "descendants": 43,
+      "score": 75,
+      "descendants": 59,
       "homepage": false,
       "time": 1794777973,
       "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/"
@@ -140,17 +384,17 @@
     {
       "id": 50510442,
       "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-      "score": 93,
-      "descendants": 44,
-      "homepage": true,
+      "score": 147,
+      "descendants": 97,
+      "homepage": false,
       "time": 1794777232,
       "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch"
     },
     {
       "id": 50509837,
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "score": 128,
-      "descendants": 32,
+      "score": 277,
+      "descendants": 53,
       "homepage": true,
       "time": 1794776492,
       "url": "https://bruceroettgers.eu/blog/protomaps/"
@@ -158,8 +402,8 @@
     {
       "id": 50509883,
       "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-      "score": 100,
-      "descendants": 77,
+      "score": 120,
+      "descendants": 110,
       "homepage": false,
       "time": 1794774585,
       "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1"
@@ -167,8 +411,8 @@
     {
       "id": 50510005,
       "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-      "score": 101,
-      "descendants": 110,
+      "score": 112,
+      "descendants": 119,
       "homepage": false,
       "time": 1794774116,
       "url": "https://arkanumdata.com/research/house-trades"
@@ -176,8 +420,8 @@
     {
       "id": 50509953,
       "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "score": 59,
-      "descendants": 61,
+      "score": 64,
+      "descendants": 62,
       "homepage": false,
       "time": 1794772967,
       "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/"
@@ -185,8 +429,8 @@
     {
       "id": 50468445,
       "title": "Bullet Dodged",
-      "score": 40,
-      "descendants": 31,
+      "score": 45,
+      "descendants": 39,
       "homepage": false,
       "time": 1794772000,
       "url": "https://idiotking.org/archives/2026/10/bullet-dodged-3/"
@@ -194,8 +438,8 @@
     {
       "id": 50508715,
       "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "score": 86,
-      "descendants": 56,
+      "score": 132,
+      "descendants": 76,
       "homepage": true,
       "time": 1794770772,
       "url": "https://ykiko.me/en/articles/2105384023094834022/"
@@ -203,8 +447,8 @@
     {
       "id": 50509411,
       "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "score": 346,
-      "descendants": 165,
+      "score": 491,
+      "descendants": 211,
       "homepage": true,
       "time": 1794770271,
       "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
@@ -212,8 +456,8 @@
     {
       "id": 50509416,
       "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "score": 57,
-      "descendants": 21,
+      "score": 85,
+      "descendants": 30,
       "homepage": true,
       "time": 1794769528,
       "url": "https://github.com/eclipse-mosquitto/mosquitto"
@@ -221,26 +465,26 @@
     {
       "id": 50465676,
       "title": "Eval Awareness vs. Eval Paranoia",
-      "score": 45,
-      "descendants": 21,
-      "homepage": true,
+      "score": 53,
+      "descendants": 24,
+      "homepage": false,
       "time": 1794768344,
       "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia"
     },
     {
       "id": 50509308,
       "title": "A short explainer on how El Niño works [video]",
-      "score": 155,
-      "descendants": 60,
+      "score": 217,
+      "descendants": 94,
       "homepage": true,
       "time": 1794767298,
       "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
     },
     {
       "id": 50509023,
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "score": 150,
-      "descendants": 110,
+      "title": "Crows make decisions faster than we can",
+      "score": 220,
+      "descendants": 149,
       "homepage": true,
       "time": 1794767032,
       "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html"
@@ -248,8 +492,8 @@
     {
       "id": 50506940,
       "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "score": 30,
-      "descendants": 9,
+      "score": 41,
+      "descendants": 10,
       "homepage": false,
       "time": 1794765792,
       "url": "https://github.com/db-branch/db-branch"
@@ -257,17 +501,17 @@
     {
       "id": 50452621,
       "title": "Notes on Mathematics for Engineers (1959) [pdf]",
-      "score": 64,
-      "descendants": 18,
-      "homepage": true,
+      "score": 91,
+      "descendants": 26,
+      "homepage": false,
       "time": 1794764717,
       "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf"
     },
     {
       "id": 50507989,
       "title": "The Atheist Bible",
-      "score": 27,
-      "descendants": 57,
+      "score": 29,
+      "descendants": 61,
       "homepage": false,
       "time": 1794763343,
       "url": "https://suchanek.name/texts/atheism/"
@@ -284,7 +528,7 @@
     {
       "id": 50467539,
       "title": "20 Years of Pyrolog",
-      "score": 71,
+      "score": 74,
       "descendants": 4,
       "homepage": false,
       "time": 1794761045,
@@ -293,8 +537,8 @@
     {
       "id": 50507791,
       "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
-      "score": 143,
-      "descendants": 42,
+      "score": 152,
+      "descendants": 44,
       "homepage": false,
       "time": 1794760309,
       "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation"
@@ -302,8 +546,8 @@
     {
       "id": 50507722,
       "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
-      "score": 8,
-      "descendants": 26,
+      "score": 9,
+      "descendants": 27,
       "homepage": false,
       "time": 1794760070,
       "url": "https://blackoutapp.io/"
@@ -311,17 +555,17 @@
     {
       "id": 50507553,
       "title": "Emacs Is My Browser",
-      "score": 170,
-      "descendants": 88,
-      "homepage": true,
+      "score": 201,
+      "descendants": 116,
+      "homepage": false,
       "time": 1794758109,
       "url": "https://joshblais.com/blog/emacs-as-my-browser/"
     },
     {
       "id": 50463399,
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "score": 318,
-      "descendants": 158,
+      "score": 410,
+      "descendants": 198,
       "homepage": true,
       "time": 1794757404,
       "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
@@ -356,16 +600,16 @@
     {
       "id": 50507303,
       "title": "All AI-generated code should be Open Source",
-      "score": 1055,
-      "descendants": 577,
-      "homepage": true,
+      "score": 1137,
+      "descendants": 610,
+      "homepage": false,
       "time": 1794755591,
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
     },
     {
       "id": 50457979,
       "title": "How to read codes from (many) IR remote controls with as little code as possible",
-      "score": 58,
+      "score": 63,
       "descendants": 10,
       "homepage": false,
       "time": 1794753792,
@@ -374,8 +618,8 @@
     {
       "id": 50507206,
       "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "score": 73,
-      "descendants": 46,
+      "score": 74,
+      "descendants": 48,
       "homepage": false,
       "time": 1794753594,
       "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
@@ -383,7 +627,7 @@
     {
       "id": 50506978,
       "title": "Amiga Studio: IDE for making games and apps for Amiga and C64 in assembler or C",
-      "score": 18,
+      "score": 21,
       "descendants": 1,
       "homepage": false,
       "time": 1794753264,
@@ -392,8 +636,8 @@
     {
       "id": 50501887,
       "title": "How the Telephone Changed the World",
-      "score": 49,
-      "descendants": 32,
+      "score": 51,
+      "descendants": 35,
       "homepage": false,
       "time": 1794752359,
       "url": "https://lithub.com/how-the-telephone-changed-the-world/"
@@ -401,8 +645,8 @@
     {
       "id": 50506894,
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "score": 188,
-      "descendants": 94,
+      "score": 226,
+      "descendants": 117,
       "homepage": true,
       "time": 1794751957,
       "url": "https://prog21.dadgum.com/116.html"
@@ -410,17 +654,17 @@
     {
       "id": 50506588,
       "title": "A NES emulator written in Odin",
-      "score": 105,
-      "descendants": 40,
-      "homepage": true,
+      "score": 114,
+      "descendants": 46,
+      "homepage": false,
       "time": 1794751455,
       "url": "https://lucypero.com/lucynes.html"
     },
     {
       "id": 50506719,
       "title": "The MacBook Pro's OLED PWM problem",
-      "score": 402,
-      "descendants": 226,
+      "score": 466,
+      "descendants": 257,
       "homepage": true,
       "time": 1794751422,
       "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
@@ -428,17 +672,17 @@
     {
       "id": 50506376,
       "title": "Understanding Positional Embeddings in Modern LLMs",
-      "score": 192,
-      "descendants": 26,
-      "homepage": true,
+      "score": 226,
+      "descendants": 27,
+      "homepage": false,
       "time": 1794750663,
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
     },
     {
       "id": 50475759,
       "title": "Chasing an audio artifact on power loss",
-      "score": 53,
-      "descendants": 7,
+      "score": 59,
+      "descendants": 8,
       "homepage": false,
       "time": 1794750128,
       "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/"
@@ -446,8 +690,8 @@
     {
       "id": 50506180,
       "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "score": 450,
-      "descendants": 193,
+      "score": 488,
+      "descendants": 226,
       "homepage": false,
       "time": 1794748267,
       "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
@@ -455,7 +699,7 @@
     {
       "id": 50481321,
       "title": "What thousands of conversations look like inside a language model",
-      "score": 111,
+      "score": 120,
       "descendants": 29,
       "homepage": false,
       "time": 1794746512,
@@ -464,7 +708,7 @@
     {
       "id": 50482279,
       "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-      "score": 73,
+      "score": 77,
       "descendants": 2,
       "homepage": false,
       "time": 1794742890,
@@ -473,8 +717,8 @@
     {
       "id": 50504718,
       "title": "Book list for streetfighting computer scientists",
-      "score": 124,
-      "descendants": 41,
+      "score": 132,
+      "descendants": 44,
       "homepage": false,
       "time": 1794739820,
       "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists"
@@ -482,8 +726,8 @@
     {
       "id": 50481056,
       "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-      "score": 38,
-      "descendants": 16,
+      "score": 40,
+      "descendants": 17,
       "homepage": false,
       "time": 1794739233,
       "url": "https://tsoracle.rs/"
@@ -491,17 +735,17 @@
     {
       "id": 50505271,
       "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
-      "score": 224,
-      "descendants": 145,
-      "homepage": true,
+      "score": 239,
+      "descendants": 150,
+      "homepage": false,
       "time": 1794736055,
       "url": "https://space.stackexchange.com/questions/37775"
     },
     {
       "id": 50474529,
       "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-      "score": 76,
-      "descendants": 48,
+      "score": 79,
+      "descendants": 50,
       "homepage": false,
       "time": 1794735620,
       "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o"
@@ -509,8 +753,8 @@
     {
       "id": 50484234,
       "title": "Semicircle Packing",
-      "score": 98,
-      "descendants": 10,
+      "score": 105,
+      "descendants": 11,
       "homepage": false,
       "time": 1794731986,
       "url": "https://rorz.io/writing/semicircle-packing"
@@ -518,8 +762,8 @@
     {
       "id": 50452037,
       "title": "Open-Source HF Communications for Remote Communities and Experimenters",
-      "score": 80,
-      "descendants": 13,
+      "score": 85,
+      "descendants": 14,
       "homepage": false,
       "time": 1794728372,
       "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/"
@@ -536,8 +780,8 @@
     {
       "id": 50443331,
       "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-      "score": 104,
-      "descendants": 98,
+      "score": 106,
+      "descendants": 100,
       "homepage": false,
       "time": 1794724747,
       "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade"
@@ -545,8 +789,8 @@
     {
       "id": 50478701,
       "title": "Memory Safety Bugs in Rust Standard Library",
-      "score": 189,
-      "descendants": 191,
+      "score": 192,
+      "descendants": 197,
       "homepage": false,
       "time": 1794721101,
       "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/"
@@ -554,8 +798,8 @@
     {
       "id": 50502988,
       "title": "Court denies motion to dismiss DRAM price fixing case",
-      "score": 485,
-      "descendants": 215,
+      "score": 506,
+      "descendants": 220,
       "homepage": false,
       "time": 1794719571,
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
@@ -563,7 +807,7 @@
     {
       "id": 50503465,
       "title": "My favourite modern NES games",
-      "score": 199,
+      "score": 205,
       "descendants": 40,
       "homepage": false,
       "time": 1794719120,
@@ -581,7 +825,7 @@
     {
       "id": 50503930,
       "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "score": 46,
+      "score": 47,
       "descendants": 9,
       "homepage": false,
       "time": 1794718158,
@@ -591,7 +835,7 @@
       "id": 50504072,
       "title": "Show HN: Gawain – Require type hints on all Python variables",
       "score": 67,
-      "descendants": 52,
+      "descendants": 55,
       "homepage": false,
       "time": 1794718158,
       "url": "https://github.com/matheuzgomes/gawain"
@@ -608,10 +852,10 @@
     },
     {
       "id": 50486880,
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "score": 46,
-      "descendants": 45,
-      "homepage": false,
+      "title": "A quest to create the perfect whiskey glass",
+      "score": 61,
+      "descendants": 61,
+      "homepage": true,
       "time": 1794717491,
       "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html"
     },
@@ -637,8 +881,8 @@
     {
       "id": 50503588,
       "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "score": 84,
-      "descendants": 55,
+      "score": 87,
+      "descendants": 60,
       "homepage": false,
       "time": 1794712234,
       "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c"
@@ -646,7 +890,7 @@
     {
       "id": 50475692,
       "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "score": 52,
+      "score": 53,
       "descendants": 13,
       "homepage": false,
       "time": 1794710212,
@@ -655,8 +899,8 @@
     {
       "id": 50502839,
       "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "score": 53,
-      "descendants": 7,
+      "score": 54,
+      "descendants": 8,
       "homepage": false,
       "time": 1794709986,
       "url": "https://bobbiec.github.io/jamaican-font.html"
@@ -664,8 +908,8 @@
     {
       "id": 50503255,
       "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "score": 334,
-      "descendants": 117,
+      "score": 343,
+      "descendants": 128,
       "homepage": false,
       "time": 1794709444,
       "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
@@ -693,7 +937,7 @@
     {
       "id": 50483431,
       "title": "500 Lines or Less A 3D Modeller",
-      "score": 97,
+      "score": 99,
       "descendants": 19,
       "homepage": false,
       "time": 1794706593,
