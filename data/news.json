@@ -1,11 +1,245 @@
 {
-  "updatedAt": "2026-11-22T14:50:04.283295+00:00",
+  "updatedAt": "2026-11-22T20:59:26.734281+00:00",
   "stories": [
+    {
+      "id": 50603465,
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "score": 7,
+      "descendants": 1,
+      "homepage": true,
+      "time": 1795380763,
+      "url": "https://nyx.net/"
+    },
+    {
+      "id": 50601823,
+      "title": "Was software just always too complex for humans?",
+      "score": 15,
+      "descendants": 9,
+      "homepage": true,
+      "time": 1795379497,
+      "url": "https://anil.recoil.org/notes/software-too-complex-for-humans"
+    },
+    {
+      "id": 50572389,
+      "title": "Show HN: Deflate X-Ray, See inside a compressed file",
+      "score": 8,
+      "descendants": 1,
+      "homepage": true,
+      "time": 1795378878,
+      "url": "https://hrih.si/projects/deflate-xray/"
+    },
+    {
+      "id": 50600838,
+      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+      "score": 20,
+      "descendants": 0,
+      "homepage": true,
+      "time": 1795378495,
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/"
+    },
+    {
+      "id": 50603232,
+      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+      "score": 30,
+      "descendants": 11,
+      "homepage": true,
+      "time": 1795377612,
+      "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html"
+    },
+    {
+      "id": 50602843,
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "score": 108,
+      "descendants": 20,
+      "homepage": true,
+      "time": 1795377003,
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+    },
+    {
+      "id": 50602947,
+      "title": "What Happened to Silicon Valley?",
+      "score": 117,
+      "descendants": 33,
+      "homepage": true,
+      "time": 1795376939,
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
+    },
+    {
+      "id": 50602660,
+      "title": "Dirac's Theorem at a Dinner Party",
+      "score": 12,
+      "descendants": 2,
+      "homepage": true,
+      "time": 1795376066,
+      "url": "https://prideout.net/blog/dirac-dinner-party/"
+    },
+    {
+      "id": 50602847,
+      "title": "Canada recommits to federal funding for news",
+      "score": 96,
+      "descendants": 94,
+      "homepage": false,
+      "time": 1795375352,
+      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/"
+    },
+    {
+      "id": 50556249,
+      "title": "Agentics: Mushy Software",
+      "score": 14,
+      "descendants": 0,
+      "homepage": true,
+      "time": 1795375252,
+      "url": "https://12gramsofcarbon.com/p/agentics-mushy-software"
+    },
+    {
+      "id": 50600521,
+      "title": "Fascism and Monopoly (2020)",
+      "score": 55,
+      "descendants": 37,
+      "homepage": false,
+      "time": 1795375123,
+      "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/"
+    },
+    {
+      "id": 50559441,
+      "title": "The Transvoxel Algorithm",
+      "score": 39,
+      "descendants": 1,
+      "homepage": true,
+      "time": 1795371618,
+      "url": "https://transvoxel.org/"
+    },
+    {
+      "id": 50599309,
+      "title": "Testing Terraform with AWS Emulator",
+      "score": 48,
+      "descendants": 6,
+      "homepage": true,
+      "time": 1795370977,
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
+    },
+    {
+      "id": 50601525,
+      "title": "Perplexity and Intelligence",
+      "score": 343,
+      "descendants": 222,
+      "homepage": true,
+      "time": 1795368425,
+      "url": "https://openai.com/index/perplexity-and-intelligence/"
+    },
+    {
+      "id": 50562207,
+      "title": "Inside PyPy: First Contact with RPython",
+      "score": 35,
+      "descendants": 4,
+      "homepage": true,
+      "time": 1795368000,
+      "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/"
+    },
+    {
+      "id": 50600771,
+      "title": "Ask HN: Are the trades a safe career transition?",
+      "score": 34,
+      "descendants": 66,
+      "homepage": false,
+      "time": 1795367063,
+      "url": "https://news.ycombinator.com/item?id=50600771"
+    },
+    {
+      "id": 50600622,
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "score": 92,
+      "descendants": 24,
+      "homepage": true,
+      "time": 1795366804,
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/"
+    },
+    {
+      "id": 50566886,
+      "title": "What Makes UltraSMR Different?",
+      "score": 23,
+      "descendants": 28,
+      "homepage": true,
+      "time": 1795364390,
+      "url": "https://blog.westerndigital.com/what-is-ultrasmr-technology/"
+    },
+    {
+      "id": 50551397,
+      "title": "The Where's Waldo of the 1500s",
+      "score": 59,
+      "descendants": 9,
+      "homepage": false,
+      "time": 1795364200,
+      "url": "https://blog.alexbeals.com/posts/il-civetta"
+    },
+    {
+      "id": 50600435,
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "score": 110,
+      "descendants": 49,
+      "homepage": true,
+      "time": 1795363477,
+      "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/"
+    },
+    {
+      "id": 50600511,
+      "title": "Open Social Web Alliance",
+      "score": 176,
+      "descendants": 182,
+      "homepage": true,
+      "time": 1795363148,
+      "url": "https://osw-alliance.net/en/"
+    },
+    {
+      "id": 50600789,
+      "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
+      "score": 51,
+      "descendants": 92,
+      "homepage": false,
+      "time": 1795363048,
+      "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps"
+    },
+    {
+      "id": 50600677,
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "score": 136,
+      "descendants": 105,
+      "homepage": true,
+      "time": 1795362459,
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
+    },
+    {
+      "id": 50594182,
+      "title": "A Better Vocabulary for Testing",
+      "score": 86,
+      "descendants": 22,
+      "homepage": true,
+      "time": 1795362033,
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/"
+    },
+    {
+      "id": 50555002,
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "score": 80,
+      "descendants": 60,
+      "homepage": true,
+      "time": 1795361216,
+      "url": "https://news.ycombinator.com/item?id=50555002"
+    },
+    {
+      "id": 50599583,
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "score": 96,
+      "descendants": 111,
+      "homepage": false,
+      "time": 1795360889,
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
+    },
     {
       "id": 50599762,
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "score": 8,
-      "descendants": 1,
+      "score": 222,
+      "descendants": 53,
       "homepage": true,
       "time": 1795358483,
       "url": "https://github.com/gulivan/worker755"
@@ -13,17 +247,17 @@
     {
       "id": 50567493,
       "title": "Celliad – a daily Excel game (French)",
-      "score": 5,
-      "descendants": 0,
-      "homepage": true,
+      "score": 21,
+      "descendants": 1,
+      "homepage": false,
       "time": 1795357537,
       "url": "https://celliad.com/"
     },
     {
       "id": 50599444,
       "title": "South Korea education minister resigns over exam cheating scandal",
-      "score": 10,
-      "descendants": 2,
+      "score": 22,
+      "descendants": 6,
       "homepage": false,
       "time": 1795356111,
       "url": "https://www.bbc.com/news/articles/cw3dgk29d37no"
@@ -31,8 +265,8 @@
     {
       "id": 50599667,
       "title": "Blackberry releases secure browser for Windows",
-      "score": 9,
-      "descendants": 7,
+      "score": 16,
+      "descendants": 12,
       "homepage": false,
       "time": 1795355785,
       "url": "https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows"
@@ -40,8 +274,8 @@
     {
       "id": 50599313,
       "title": "Prisons get OK to jam contraband phones",
-      "score": 29,
-      "descendants": 43,
+      "score": 37,
+      "descendants": 79,
       "homepage": false,
       "time": 1795354714,
       "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
@@ -49,45 +283,44 @@
     {
       "id": 50573870,
       "title": "Field Mice on Drugs",
-      "score": 13,
-      "descendants": 2,
-      "homepage": true,
+      "score": 33,
+      "descendants": 12,
+      "homepage": false,
       "time": 1795353900,
       "url": "https://ambrook.com/offrange/livestock/field-mice-on-drugs"
     },
     {
       "id": 50597959,
       "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "score": 25,
-      "descendants": 2,
+      "score": 63,
+      "descendants": 10,
       "homepage": true,
       "time": 1795352962,
       "url": "https://simonwillison.net/2026/Nov/21/muru/"
     },
     {
       "id": 50598961,
-      "title": "Removed story",
-      "score": 28,
-      "descendants": 0,
+      "title": "AI is becoming a disaster for the climate",
+      "score": 84,
+      "descendants": 29,
       "homepage": false,
       "time": 1795351596,
-      "dead": true,
-      "url": "https://news.ycombinator.com/item?id=50598961"
+      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
     },
     {
       "id": 50549457,
       "title": "String Art Font (2017)",
-      "score": 13,
-      "descendants": 2,
-      "homepage": true,
+      "score": 19,
+      "descendants": 3,
+      "homepage": false,
       "time": 1795350235,
       "url": "https://erikdemaine.org/fonts/stringart/"
     },
     {
       "id": 50566495,
       "title": "Self-hosted library branch over public web OPDS",
-      "score": 51,
-      "descendants": 14,
+      "score": 103,
+      "descendants": 28,
       "homepage": true,
       "time": 1795346593,
       "url": "https://joinmayberry.com/"
@@ -95,8 +328,8 @@
     {
       "id": 50597743,
       "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-      "score": 82,
-      "descendants": 68,
+      "score": 87,
+      "descendants": 77,
       "homepage": false,
       "time": 1795345887,
       "url": "https://arxiv.org/abs/2606.14068"
@@ -104,17 +337,17 @@
     {
       "id": 50533945,
       "title": "A real Linux kernel, compiled to WebAssembly",
-      "score": 160,
-      "descendants": 50,
-      "homepage": true,
+      "score": 211,
+      "descendants": 74,
+      "homepage": false,
       "time": 1795342951,
       "url": "https://github.com/pithings/unkernel"
     },
     {
       "id": 50597612,
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "score": 317,
-      "descendants": 430,
+      "score": 737,
+      "descendants": 775,
       "homepage": true,
       "time": 1795340494,
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
@@ -122,9 +355,9 @@
     {
       "id": 50559820,
       "title": "Is 'fork' missing operation in sandboxes?",
-      "score": 14,
-      "descendants": 13,
-      "homepage": true,
+      "score": 26,
+      "descendants": 16,
+      "homepage": false,
       "time": 1795339307,
       "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable"
     },
@@ -141,7 +374,7 @@
     {
       "id": 50554572,
       "title": "Reversing the Next-Page Prefetcher in Skylake-X",
-      "score": 17,
+      "score": 24,
       "descendants": 0,
       "homepage": false,
       "time": 1795335644,
@@ -150,17 +383,17 @@
     {
       "id": 50596155,
       "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-      "score": 92,
-      "descendants": 67,
-      "homepage": true,
+      "score": 171,
+      "descendants": 130,
+      "homepage": false,
       "time": 1795335515,
       "url": "https://github.com/EL4CTEO/fast-anything"
     },
     {
       "id": 50597014,
       "title": "The Engineering Manager's role is under attack (again)",
-      "score": 43,
-      "descendants": 78,
+      "score": 45,
+      "descendants": 88,
       "homepage": false,
       "time": 1795332626,
       "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again"
@@ -168,17 +401,17 @@
     {
       "id": 50569846,
       "title": "If tiny 'primordial' black holes exist",
-      "score": 51,
-      "descendants": 38,
-      "homepage": true,
+      "score": 56,
+      "descendants": 48,
+      "homepage": false,
       "time": 1795332017,
       "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html"
     },
     {
       "id": 50596960,
       "title": "Notes on the discrete Fourier transform (DFT)",
-      "score": 52,
-      "descendants": 7,
+      "score": 89,
+      "descendants": 12,
       "homepage": true,
       "time": 1795331757,
       "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
@@ -186,7 +419,7 @@
     {
       "id": 50596511,
       "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "score": 89,
+      "score": 95,
       "descendants": 21,
       "homepage": false,
       "time": 1795330413,
@@ -195,16 +428,16 @@
     {
       "id": 50596664,
       "title": "Show HN: The Riemann Proof Handbook",
-      "score": 75,
-      "descendants": 47,
-      "homepage": true,
+      "score": 82,
+      "descendants": 58,
+      "homepage": false,
       "time": 1795329454,
       "url": "https://github.com/tamnd/riemann-handbook"
     },
     {
       "id": 50553496,
       "title": "Pion Interceptor: WebRTC for Hackers",
-      "score": 19,
+      "score": 22,
       "descendants": 6,
       "homepage": false,
       "time": 1795328361,
@@ -213,8 +446,8 @@
     {
       "id": 50487155,
       "title": "Show HN: Compile the same source for GPUs and CPUs",
-      "score": 23,
-      "descendants": 3,
+      "score": 25,
+      "descendants": 4,
       "homepage": false,
       "time": 1795326618,
       "url": "https://github.com/ThrudTheBarbarian/xc"
@@ -222,8 +455,8 @@
     {
       "id": 50544428,
       "title": "Reaktiv Workbook – A spreadsheet where every cell is Python",
-      "score": 34,
-      "descendants": 10,
+      "score": 41,
+      "descendants": 12,
       "homepage": false,
       "time": 1795324717,
       "url": "https://workbook.bui.app/"
@@ -231,8 +464,8 @@
     {
       "id": 50596133,
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "score": 787,
-      "descendants": 467,
+      "score": 1094,
+      "descendants": 639,
       "homepage": true,
       "time": 1795321656,
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
@@ -240,8 +473,8 @@
     {
       "id": 50595816,
       "title": "Together.ai: Prompt Leakage for Requests",
-      "score": 36,
-      "descendants": 8,
+      "score": 46,
+      "descendants": 10,
       "homepage": false,
       "time": 1795321528,
       "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
@@ -249,17 +482,17 @@
     {
       "id": 50560314,
       "title": "Split Radiance Cascades",
-      "score": 48,
-      "descendants": 1,
-      "homepage": true,
+      "score": 66,
+      "descendants": 3,
+      "homepage": false,
       "time": 1795321045,
       "url": "https://www.jacktollenaar.top/articles/split-rc.html"
     },
     {
       "id": 50595812,
       "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-      "score": 41,
-      "descendants": 14,
+      "score": 47,
+      "descendants": 16,
       "homepage": false,
       "time": 1795319632,
       "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
@@ -267,8 +500,8 @@
     {
       "id": 50595725,
       "title": "The Most Popular Car Colors in America",
-      "score": 27,
-      "descendants": 57,
+      "score": 30,
+      "descendants": 59,
       "homepage": false,
       "time": 1795318545,
       "url": "https://www.iseecars.com/most-popular-car-colors-study"
@@ -285,17 +518,17 @@
     {
       "id": 50595537,
       "title": "The Mythology of Conscious AI",
-      "score": 100,
-      "descendants": 255,
-      "homepage": true,
+      "score": 150,
+      "descendants": 431,
+      "homepage": false,
       "time": 1795317322,
       "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/"
     },
     {
       "id": 50595554,
       "title": "Data Processing Incidents on Inference Providers",
-      "score": 220,
-      "descendants": 78,
+      "score": 269,
+      "descendants": 88,
       "homepage": true,
       "time": 1795314969,
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
@@ -303,8 +536,8 @@
     {
       "id": 50595168,
       "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-      "score": 187,
-      "descendants": 137,
+      "score": 207,
+      "descendants": 160,
       "homepage": false,
       "time": 1795314230,
       "url": "https://github.com/ItsNotRexed/Leonida"
@@ -312,7 +545,7 @@
     {
       "id": 50559295,
       "title": "Unit-testing in the Ü programming language",
-      "score": 11,
+      "score": 13,
       "descendants": 3,
       "homepage": false,
       "time": 1795313780,
@@ -331,8 +564,8 @@
     {
       "id": 50594911,
       "title": "Sandwich Simulator",
-      "score": 380,
-      "descendants": 134,
+      "score": 527,
+      "descendants": 186,
       "homepage": true,
       "time": 1795310161,
       "url": "https://stulle.app/"
@@ -340,8 +573,8 @@
     {
       "id": 50553223,
       "title": "Shaping the Loops, Closing the Loops",
-      "score": 28,
-      "descendants": 9,
+      "score": 30,
+      "descendants": 10,
       "homepage": false,
       "time": 1795310127,
       "url": "https://revyl.com/blog/pattern-engineering/"
@@ -368,7 +601,7 @@
     {
       "id": 50594564,
       "title": "International UN talks on controlling use of autonomous weapons collapse",
-      "score": 46,
+      "score": 47,
       "descendants": 34,
       "homepage": false,
       "time": 1795304602,
@@ -386,34 +619,34 @@
     {
       "id": 50593481,
       "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "score": 116,
-      "descendants": 29,
-      "homepage": true,
+      "score": 137,
+      "descendants": 33,
+      "homepage": false,
       "time": 1795302336,
       "url": "https://www.pandex.io"
     },
     {
       "id": 50593737,
       "title": "Advice for the next 100 Rust GUIs",
-      "score": 215,
-      "descendants": 99,
-      "homepage": true,
+      "score": 247,
+      "descendants": 143,
+      "homepage": false,
       "time": 1795300935,
       "url": "https://linebender.org/blog/next-100-guis/"
     },
     {
       "id": 50594132,
       "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "score": 136,
-      "descendants": 19,
-      "homepage": true,
+      "score": 158,
+      "descendants": 20,
+      "homepage": false,
       "time": 1795300511,
       "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
     },
     {
       "id": 50560203,
       "title": "Windows has two settings that bring work back after restart, both off by default",
-      "score": 46,
+      "score": 47,
       "descendants": 44,
       "homepage": false,
       "time": 1795299111,
@@ -422,7 +655,7 @@
     {
       "id": 50593637,
       "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-      "score": 41,
+      "score": 42,
       "descendants": 20,
       "homepage": false,
       "time": 1795297499,
@@ -450,9 +683,9 @@
     {
       "id": 50583028,
       "title": "Getting the mind to steer the body to steer you",
-      "score": 339,
-      "descendants": 120,
-      "homepage": true,
+      "score": 390,
+      "descendants": 153,
+      "homepage": false,
       "time": 1795292583,
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
     },
@@ -460,7 +693,7 @@
       "id": 50533517,
       "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
       "score": 39,
-      "descendants": 48,
+      "descendants": 52,
       "homepage": false,
       "time": 1795291789,
       "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/"
@@ -468,8 +701,8 @@
     {
       "id": 50582069,
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 1166,
-      "descendants": 248,
+      "score": 1306,
+      "descendants": 285,
       "homepage": true,
       "time": 1795291624,
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
@@ -477,9 +710,9 @@
     {
       "id": 50592097,
       "title": "Upload2Shell (CVE-2026-125396)",
-      "score": 138,
-      "descendants": 66,
-      "homepage": true,
+      "score": 149,
+      "descendants": 76,
+      "homepage": false,
       "time": 1795289959,
       "url": "https://pwn.ai/upload2shell"
     },
@@ -487,7 +720,7 @@
       "id": 50532417,
       "title": "Tropical Rainforests Species may be surprisingly young",
       "score": 52,
-      "descendants": 33,
+      "descendants": 36,
       "homepage": false,
       "time": 1795288117,
       "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html"
@@ -495,8 +728,8 @@
     {
       "id": 50591853,
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "score": 506,
-      "descendants": 126,
+      "score": 560,
+      "descendants": 135,
       "homepage": true,
       "time": 1795285546,
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
@@ -514,8 +747,8 @@
     {
       "id": 50591835,
       "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
-      "score": 171,
-      "descendants": 363,
+      "score": 174,
+      "descendants": 374,
       "homepage": false,
       "time": 1795285124,
       "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"
@@ -532,8 +765,8 @@
     {
       "id": 50590441,
       "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "score": 119,
-      "descendants": 43,
+      "score": 124,
+      "descendants": 46,
       "homepage": false,
       "time": 1795283381,
       "url": "https://math.mit.edu/~drew/grh/"
@@ -541,8 +774,8 @@
     {
       "id": 50591260,
       "title": "PostgreSQL Extensions in Go",
-      "score": 163,
-      "descendants": 29,
+      "score": 165,
+      "descendants": 31,
       "homepage": false,
       "time": 1795281759,
       "url": "https://jespino.github.io/gopgext/"
@@ -550,7 +783,7 @@
     {
       "id": 50535228,
       "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
-      "score": 58,
+      "score": 59,
       "descendants": 19,
       "homepage": false,
       "time": 1795280804,
@@ -559,8 +792,8 @@
     {
       "id": 50590279,
       "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "score": 166,
-      "descendants": 115,
+      "score": 173,
+      "descendants": 120,
       "homepage": false,
       "time": 1795277486,
       "url": "https://onurgumus.github.io/zero-csharp/index.html"
@@ -568,8 +801,8 @@
     {
       "id": 50574264,
       "title": "Deterministic Simulation Testing Is for Everyone",
-      "score": 82,
-      "descendants": 15,
+      "score": 86,
+      "descendants": 17,
       "homepage": false,
       "time": 1795277160,
       "url": "https://outdata.net/blog/261120"
@@ -587,8 +820,8 @@
     {
       "id": 50577991,
       "title": "I'm quite pleased by the tech architecture of my art website",
-      "score": 175,
-      "descendants": 35,
+      "score": 178,
+      "descendants": 37,
       "homepage": false,
       "time": 1795274197,
       "url": "https://klauria.tech/klauria-art/"
@@ -596,16 +829,16 @@
     {
       "id": 50589618,
       "title": "Lean verification of the Riemann Hypothesis",
-      "score": 1122,
-      "descendants": 932,
-      "homepage": true,
+      "score": 1197,
+      "descendants": 995,
+      "homepage": false,
       "time": 1795273860,
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
     },
     {
       "id": 50541047,
       "title": "Show HN: An ASCII cell aquarium for your terminal",
-      "score": 63,
+      "score": 64,
       "descendants": 22,
       "homepage": false,
       "time": 1795273503,
@@ -614,8 +847,8 @@
     {
       "id": 50588916,
       "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-      "score": 177,
-      "descendants": 165,
+      "score": 180,
+      "descendants": 167,
       "homepage": false,
       "time": 1795271708,
       "url": "https://simple-bench.com/"
@@ -623,18 +856,18 @@
     {
       "id": 50546587,
       "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "score": 283,
-      "descendants": 164,
-      "homepage": true,
+      "score": 309,
+      "descendants": 179,
+      "homepage": false,
       "time": 1795269850,
       "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/"
     },
     {
       "id": 50588982,
       "title": "Detonating a pile of lead azide",
-      "score": 651,
-      "descendants": 404,
-      "homepage": true,
+      "score": 691,
+      "descendants": 424,
+      "homepage": false,
       "time": 1795268427,
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
     },
@@ -660,7 +893,7 @@
       "id": 50588436,
       "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
       "score": 92,
-      "descendants": 152,
+      "descendants": 155,
       "homepage": false,
       "time": 1795264044,
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic"
@@ -668,17 +901,17 @@
     {
       "id": 50587875,
       "title": "My monitor was cutting my download speed by 75%",
-      "score": 630,
-      "descendants": 294,
-      "homepage": true,
+      "score": 676,
+      "descendants": 312,
+      "homepage": false,
       "time": 1795263368,
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
     },
     {
       "id": 50532613,
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "score": 779,
-      "descendants": 259,
+      "score": 785,
+      "descendants": 261,
       "homepage": false,
       "time": 1795262535,
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
@@ -705,8 +938,8 @@
     {
       "id": 50587859,
       "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "score": 180,
-      "descendants": 93,
+      "score": 183,
+      "descendants": 95,
       "homepage": false,
       "time": 1795257558,
       "url": "https://www.bbc.com/news/articles/cvze7de86pk3o"
@@ -714,8 +947,8 @@
     {
       "id": 50587208,
       "title": "GnuPG Security Advisory for GPGME",
-      "score": 262,
-      "descendants": 113,
+      "score": 264,
+      "descendants": 115,
       "homepage": false,
       "time": 1795257070,
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
@@ -733,7 +966,7 @@
       "id": 50557025,
       "title": "Engineer's Guide to Career Growth – Advice from My Time at Stripe and Facebook",
       "score": 33,
-      "descendants": 12,
+      "descendants": 14,
       "homepage": false,
       "time": 1795255270,
       "url": "https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/"
@@ -760,7 +993,7 @@
       "id": 50559116,
       "title": "Worlds largest beaver dam in Northern Alberta",
       "score": 42,
-      "descendants": 10,
+      "descendants": 11,
       "homepage": false,
       "time": 1795247969,
       "url": "https://substack.com/@canadianreturnee/note/c-319574497"
@@ -768,7 +1001,7 @@
     {
       "id": 50586648,
       "title": "Surprisingly Adorable Insect Portraits",
-      "score": 166,
+      "score": 172,
       "descendants": 38,
       "homepage": false,
       "time": 1795247807,
@@ -777,7 +1010,7 @@
     {
       "id": 50540342,
       "title": "3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards",
-      "score": 36,
+      "score": 37,
       "descendants": 7,
       "homepage": false,
       "time": 1795244329,
@@ -786,7 +1019,7 @@
     {
       "id": 50586292,
       "title": "ClawDOS – An AI coding agent for DOS",
-      "score": 166,
+      "score": 172,
       "descendants": 52,
       "homepage": false,
       "time": 1795242698,
@@ -795,8 +1028,8 @@
     {
       "id": 50556482,
       "title": "Fewer slides, more dragons",
-      "score": 73,
-      "descendants": 30,
+      "score": 75,
+      "descendants": 31,
       "homepage": false,
       "time": 1795240679,
       "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons"
@@ -804,8 +1037,8 @@
     {
       "id": 50583761,
       "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "score": 701,
-      "descendants": 787,
+      "score": 718,
+      "descendants": 817,
       "homepage": false,
       "time": 1795237821,
       "url": "https://news.ycombinator.com/item?id=50583761"
@@ -813,8 +1046,8 @@
     {
       "id": 50564684,
       "title": "Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder",
-      "score": 24,
-      "descendants": 6,
+      "score": 26,
+      "descendants": 10,
       "homepage": false,
       "time": 1795237053,
       "url": "https://github.com/seb3773/lz0"
@@ -822,8 +1055,8 @@
     {
       "id": 50576012,
       "title": "Slopstrap – Make your site look hastily vibecoded",
-      "score": 736,
-      "descendants": 136,
+      "score": 761,
+      "descendants": 140,
       "homepage": false,
       "time": 1795236830,
       "url": "https://slopstrap.mikelacher.com/"
@@ -831,8 +1064,8 @@
     {
       "id": 50585593,
       "title": "Backblaze Notice at Collection and Privacy Policy",
-      "score": 238,
-      "descendants": 87,
+      "score": 251,
+      "descendants": 93,
       "homepage": false,
       "time": 1795233911,
       "url": "https://www.backblaze.com/company/policy/privacy"
@@ -849,8 +1082,8 @@
     {
       "id": 50585376,
       "title": "Clojure will affect the way you think about programming (2017)",
-      "score": 200,
-      "descendants": 92,
+      "score": 205,
+      "descendants": 94,
       "homepage": false,
       "time": 1795232046,
       "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
@@ -867,7 +1100,7 @@
     {
       "id": 50583856,
       "title": "Serious cyberattack thought backed by wealthy operators",
-      "score": 146,
+      "score": 150,
       "descendants": 84,
       "homepage": false,
       "time": 1795227410,
@@ -903,8 +1136,8 @@
     {
       "id": 50534387,
       "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "score": 203,
-      "descendants": 71,
+      "score": 204,
+      "descendants": 72,
       "homepage": false,
       "time": 1795222519,
       "url": "https://valkey.io/blog/from-skiplist-to-b+tree/"
@@ -912,8 +1145,8 @@
     {
       "id": 50583982,
       "title": "Re: Riemann",
-      "score": 215,
-      "descendants": 231,
+      "score": 216,
+      "descendants": 234,
       "homepage": false,
       "time": 1795220236,
       "url": "https://borretti.me/article/re-riemann"
